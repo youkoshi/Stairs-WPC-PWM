@@ -1,0 +1,1704 @@
+TRACE::2023-03-02.12:56:50::SCWPlatform::Trying to open the hw design at D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.12:56:50::SCWPlatform::DSA given D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.12:56:50::SCWPlatform::DSA absoulate path D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.12:56:50::SCWPlatform::DSA directory D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw
+TRACE::2023-03-02.12:56:50::SCWPlatform:: Platform Path D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.12:56:50::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-03-02.12:56:50::SCWPlatform::Do not have an existing db opened. 
+TRACE::2023-03-02.12:56:51::SCWPlatform::Opened new HwDB with name PWM_2
+TRACE::2023-03-02.12:56:51::SCWWriter::formatted JSON is {
+	"platformName":	"PWM_ex",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"PWM_ex",
+	"platHandOff":	"D:/Project/Wireless_Charge_PWM/PWM/PWM_ex.xsa",
+	"platIntHandOff":	"<platformDir>/hw/PWM_ex.xsa",
+	"deviceType":	"zynq",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"true",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	""
+}
+TRACE::2023-03-02.12:56:51::SCWWriter::formatted JSON is {
+	"platformName":	"PWM_ex",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"PWM_ex",
+	"platHandOff":	"D:/Project/Wireless_Charge_PWM/PWM/PWM_ex.xsa",
+	"platIntHandOff":	"<platformDir>/hw/PWM_ex.xsa",
+	"deviceType":	"zynq",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"true",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"PWM_ex",
+	"systems":	[{
+			"systemName":	"PWM_ex",
+			"systemDesc":	"PWM_ex",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"PWM_ex"
+		}]
+}
+TRACE::2023-03-02.12:56:51::SCWWriter::formatted JSON is {
+	"platformName":	"PWM_ex",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"PWM_ex",
+	"platHandOff":	"D:/Project/Wireless_Charge_PWM/PWM/PWM_ex.xsa",
+	"platIntHandOff":	"<platformDir>/hw/PWM_ex.xsa",
+	"deviceType":	"zynq",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"true",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"PWM_ex",
+	"systems":	[{
+			"systemName":	"PWM_ex",
+			"systemDesc":	"PWM_ex",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"PWM_ex"
+		}]
+}
+TRACE::2023-03-02.12:56:51::SCWPlatform::Trying to open the hw design at D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.12:56:51::SCWPlatform::DSA given D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.12:56:51::SCWPlatform::DSA absoulate path D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.12:56:51::SCWPlatform::DSA directory D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw
+TRACE::2023-03-02.12:56:51::SCWPlatform:: Platform Path D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.12:56:51::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-03-02.12:56:51::SCWPlatform::Trying to set the existing hwdb with name PWM_2
+TRACE::2023-03-02.12:56:51::SCWPlatform::Opened existing hwdb PWM_2
+TRACE::2023-03-02.12:56:51::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-03-02.12:56:51::SCWPlatform::Trying to open the hw design at D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.12:56:51::SCWPlatform::DSA given D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.12:56:51::SCWPlatform::DSA absoulate path D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.12:56:51::SCWPlatform::DSA directory D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw
+TRACE::2023-03-02.12:56:51::SCWPlatform:: Platform Path D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.12:56:51::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-03-02.12:56:51::SCWPlatform::Trying to set the existing hwdb with name PWM_2
+TRACE::2023-03-02.12:56:51::SCWPlatform::Opened existing hwdb PWM_2
+TRACE::2023-03-02.12:56:51::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-03-02.12:56:51::SCWDomain::checking for install qemu data   : 
+TRACE::2023-03-02.12:56:51::SCWDomain:: Using the QEMU Data from install at  : D:/Soft/Xilinx22.2/Vitis/2022.2/data/emulation/platforms/zynq/sw/a9_standalone/qemu/
+TRACE::2023-03-02.12:56:51::SCWDomain:: Using the QEMU args  from install at  : D:/Soft/Xilinx22.2/Vitis/2022.2/data/emulation/platforms/zynq/sw/a9_standalone/qemu/qemu_args.txt
+TRACE::2023-03-02.12:56:51::SCWPlatform::Trying to open the hw design at D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.12:56:51::SCWPlatform::DSA given D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.12:56:51::SCWPlatform::DSA absoulate path D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.12:56:51::SCWPlatform::DSA directory D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw
+TRACE::2023-03-02.12:56:51::SCWPlatform:: Platform Path D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.12:56:51::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-03-02.12:56:51::SCWPlatform::Trying to set the existing hwdb with name PWM_2
+TRACE::2023-03-02.12:56:51::SCWPlatform::Opened existing hwdb PWM_2
+TRACE::2023-03-02.12:56:51::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-03-02.12:56:51::SCWPlatform::Trying to open the hw design at D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.12:56:51::SCWPlatform::DSA given D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.12:56:51::SCWPlatform::DSA absoulate path D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.12:56:51::SCWPlatform::DSA directory D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw
+TRACE::2023-03-02.12:56:51::SCWPlatform:: Platform Path D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.12:56:51::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-03-02.12:56:51::SCWPlatform::Trying to set the existing hwdb with name PWM_2
+TRACE::2023-03-02.12:56:51::SCWPlatform::Opened existing hwdb PWM_2
+TRACE::2023-03-02.12:56:51::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-03-02.12:56:51::SCWDomain::Qemu Directory name is changed from "" to "qemu"
+TRACE::2023-03-02.12:56:51::SCWPlatform::Trying to open the hw design at D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.12:56:51::SCWPlatform::DSA given D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.12:56:51::SCWPlatform::DSA absoulate path D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.12:56:51::SCWPlatform::DSA directory D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw
+TRACE::2023-03-02.12:56:51::SCWPlatform:: Platform Path D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.12:56:51::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-03-02.12:56:51::SCWPlatform::Trying to set the existing hwdb with name PWM_2
+TRACE::2023-03-02.12:56:51::SCWPlatform::Opened existing hwdb PWM_2
+TRACE::2023-03-02.12:56:51::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-03-02.12:56:51::SCWMssOS::Checking the sw design at  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2023-03-02.12:56:51::SCWMssOS::DEBUG:  swdes dump  
+TRACE::2023-03-02.12:56:51::SCWMssOS::No sw design opened at  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2023-03-02.12:56:51::SCWMssOS::mss does not exists at D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2023-03-02.12:56:51::SCWMssOS::Creating sw design at  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2023-03-02.12:56:51::SCWMssOS::Adding the swdes entry, created swdb D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss with des name D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2023-03-02.12:56:51::SCWMssOS::updating the scw layer changes to swdes at   D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2023-03-02.12:56:51::SCWMssOS::Writing mss at D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2023-03-02.12:56:51::SCWMssOS::Completed writing the mss file at D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp
+TRACE::2023-03-02.12:56:51::SCWMssOS::Picking up changes from newly written mss file into SCW Layer. 
+TRACE::2023-03-02.12:56:51::SCWMssOS::Updated the changes from newly written mss file into SCW Layer. 
+TRACE::2023-03-02.12:56:51::SCWMssOS::Completed writing the mss file at D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp
+TRACE::2023-03-02.12:56:51::SCWMssOS::Forcing BSP Sources regeneration.
+TRACE::2023-03-02.12:56:52::SCWMssOS::Saving the mss changes D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2023-03-02.12:56:52::SCWMssOS::Adding the swdes entry, mss present, able to open swdb D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss with des name system
+TRACE::2023-03-02.12:56:52::SCWMssOS::Writing the mss file completed D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2023-03-02.12:56:52::SCWMssOS::Commit changes completed.
+TRACE::2023-03-02.12:56:52::SCWPlatform::Trying to open the hw design at D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.12:56:52::SCWPlatform::DSA given D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.12:56:52::SCWPlatform::DSA absoulate path D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.12:56:52::SCWPlatform::DSA directory D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw
+TRACE::2023-03-02.12:56:52::SCWPlatform:: Platform Path D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.12:56:52::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-03-02.12:56:52::SCWPlatform::Trying to set the existing hwdb with name PWM_2
+TRACE::2023-03-02.12:56:52::SCWPlatform::Opened existing hwdb PWM_2
+TRACE::2023-03-02.12:56:52::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-03-02.12:56:52::SCWMssOS::Checking the sw design at  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2023-03-02.12:56:52::SCWMssOS::DEBUG:  swdes dump  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system||
+
+TRACE::2023-03-02.12:56:52::SCWMssOS::Sw design exists and opened at  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2023-03-02.12:56:52::SCWPlatform::Trying to open the hw design at D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.12:56:52::SCWPlatform::DSA given D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.12:56:52::SCWPlatform::DSA absoulate path D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.12:56:52::SCWPlatform::DSA directory D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw
+TRACE::2023-03-02.12:56:52::SCWPlatform:: Platform Path D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.12:56:52::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-03-02.12:56:52::SCWPlatform::Trying to set the existing hwdb with name PWM_2
+TRACE::2023-03-02.12:56:52::SCWPlatform::Opened existing hwdb PWM_2
+TRACE::2023-03-02.12:56:52::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-03-02.12:56:52::SCWMssOS::Checking the sw design at  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2023-03-02.12:56:52::SCWMssOS::DEBUG:  swdes dump  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system||
+
+TRACE::2023-03-02.12:56:52::SCWMssOS::Sw design exists and opened at  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2023-03-02.12:56:52::SCWPlatform::Trying to open the hw design at D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.12:56:52::SCWPlatform::DSA given D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.12:56:52::SCWPlatform::DSA absoulate path D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.12:56:52::SCWPlatform::DSA directory D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw
+TRACE::2023-03-02.12:56:52::SCWPlatform:: Platform Path D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.12:56:52::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-03-02.12:56:52::SCWPlatform::Trying to set the existing hwdb with name PWM_2
+TRACE::2023-03-02.12:56:52::SCWPlatform::Opened existing hwdb PWM_2
+TRACE::2023-03-02.12:56:52::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-03-02.12:56:52::SCWMssOS::Checking the sw design at  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2023-03-02.12:56:52::SCWMssOS::DEBUG:  swdes dump  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system||
+
+TRACE::2023-03-02.12:56:52::SCWMssOS::Sw design exists and opened at  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2023-03-02.12:56:52::SCWWriter::formatted JSON is {
+	"platformName":	"PWM_ex",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"PWM_ex",
+	"platHandOff":	"D:/Project/Wireless_Charge_PWM/PWM/PWM_ex.xsa",
+	"platIntHandOff":	"<platformDir>/hw/PWM_ex.xsa",
+	"deviceType":	"zynq",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"true",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"PWM_ex",
+	"systems":	[{
+			"systemName":	"PWM_ex",
+			"systemDesc":	"PWM_ex",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"PWM_ex",
+			"sysActiveDom":	"standalone_ps7_cortexa9_0",
+			"sysDefaultDom":	"standalone_ps7_cortexa9_0",
+			"domains":	[{
+					"domainName":	"standalone_ps7_cortexa9_0",
+					"domainDispName":	"standalone_ps7_cortexa9_0",
+					"domainDesc":	"standalone_ps7_cortexa9_0",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"qemuArgs":	"<platformDir>/resources/PWM_ex/standalone_ps7_cortexa9_0/qemu_args.txt",
+					"qemuData":	"<platformDir>/resources/PWM_ex/standalone_ps7_cortexa9_0/qemu",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"8.0",
+					"mssFile":	"",
+					"md5Digest":	"a01c6602601945bcfa76bcb90ce56ec0",
+					"compatibleApp":	"hello_world",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+LOG::2023-03-02.12:56:52::SCWPlatform::Started generating the artifacts platform PWM_ex
+TRACE::2023-03-02.12:56:52::SCWPlatform::Sanity checking of platform is completed
+LOG::2023-03-02.12:56:52::SCWPlatform::Started generating the artifacts for system configuration PWM_ex
+LOG::2023-03-02.12:56:52::SCWSystem::Checking the domain standalone_ps7_cortexa9_0
+LOG::2023-03-02.12:56:52::SCWSystem::Not a boot domain 
+LOG::2023-03-02.12:56:52::SCWSystem::Started Processing the domain standalone_ps7_cortexa9_0
+TRACE::2023-03-02.12:56:52::SCWDomain::Generating domain artifcats
+TRACE::2023-03-02.12:56:52::SCWMssOS::Generating standalone artifcats
+TRACE::2023-03-02.12:56:52::SCWMssOS::Copying the qemu file from  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/resources/PWM_ex/standalone_ps7_cortexa9_0/qemu_args.txt To D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/export/PWM_ex/sw/PWM_ex/qemu/
+TRACE::2023-03-02.12:56:52::SCWMssOS::Copying the qemu file from  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/resources/PWM_ex/standalone_ps7_cortexa9_0/qemu_args.txt To D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/export/PWM_ex/sw/PWM_ex/standalone_ps7_cortexa9_0/qemu/
+TRACE::2023-03-02.12:56:52::SCWMssOS:: Copying the user libraries. 
+TRACE::2023-03-02.12:56:52::SCWPlatform::Trying to open the hw design at D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.12:56:52::SCWPlatform::DSA given D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.12:56:52::SCWPlatform::DSA absoulate path D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.12:56:52::SCWPlatform::DSA directory D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw
+TRACE::2023-03-02.12:56:52::SCWPlatform:: Platform Path D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.12:56:52::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-03-02.12:56:52::SCWPlatform::Trying to set the existing hwdb with name PWM_2
+TRACE::2023-03-02.12:56:52::SCWPlatform::Opened existing hwdb PWM_2
+TRACE::2023-03-02.12:56:52::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-03-02.12:56:52::SCWMssOS::Checking the sw design at  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2023-03-02.12:56:52::SCWMssOS::DEBUG:  swdes dump  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system||
+
+TRACE::2023-03-02.12:56:52::SCWMssOS::Sw design exists and opened at  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2023-03-02.12:56:52::SCWMssOS::Completed writing the mss file at D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp
+TRACE::2023-03-02.12:56:52::SCWMssOS::Mss edits present, copying mssfile into export location D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2023-03-02.12:56:52::SCWMssOS::bsp generated is upto date with the mss file. Skipping bsp generation.
+TRACE::2023-03-02.12:56:52::SCWMssOS::BSP is already built. skipping the bsp build ... 
+TRACE::2023-03-02.12:56:52::SCWDomain::Skipping the build for domain :  standalone_ps7_cortexa9_0
+TRACE::2023-03-02.12:56:52::SCWMssOS::skipping the bsp build ... 
+TRACE::2023-03-02.12:56:52::SCWMssOS::Copying to export directory.
+TRACE::2023-03-02.12:56:52::SCWMssOS:: Checking if to create the Supporting Applications
+TRACE::2023-03-02.12:56:52::SCWMssOS:: No Linux domain exists, trying to generate FSBL 
+TRACE::2023-03-02.12:56:52::SCWMssOS:: Completed Standalone Artifacts creation 
+LOG::2023-03-02.12:56:52::SCWSystem::Completed Processing the domain standalone_ps7_cortexa9_0
+LOG::2023-03-02.12:56:52::SCWSystem::Completed Processing the sysconfig PWM_ex
+LOG::2023-03-02.12:56:52::SCWPlatform::Completed generating the artifacts for system configuration PWM_ex
+TRACE::2023-03-02.12:56:52::SCWPlatform::Started preparing the platform 
+TRACE::2023-03-02.12:56:52::SCWSystem::Writing the bif file for system config PWM_ex
+TRACE::2023-03-02.12:56:52::SCWSystem::dir created 
+TRACE::2023-03-02.12:56:52::SCWSystem::Writing the bif 
+TRACE::2023-03-02.12:56:52::SCWPlatform::Started writing the spfm file 
+TRACE::2023-03-02.12:56:52::SCWPlatform::Started writing the xpfm file 
+TRACE::2023-03-02.12:56:52::SCWPlatform::Completed generating the platform
+TRACE::2023-03-02.12:56:52::SCWMssOS::Saving the mss changes D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2023-03-02.12:56:52::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2023-03-02.12:56:52::SCWMssOS::Completed writemss as part of save.
+TRACE::2023-03-02.12:56:52::SCWMssOS::Commit changes completed.
+TRACE::2023-03-02.12:56:52::SCWPlatform::Trying to open the hw design at D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.12:56:52::SCWPlatform::DSA given D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.12:56:52::SCWPlatform::DSA absoulate path D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.12:56:52::SCWPlatform::DSA directory D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw
+TRACE::2023-03-02.12:56:52::SCWPlatform:: Platform Path D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.12:56:52::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-03-02.12:56:52::SCWPlatform::Trying to set the existing hwdb with name PWM_2
+TRACE::2023-03-02.12:56:52::SCWPlatform::Opened existing hwdb PWM_2
+TRACE::2023-03-02.12:56:52::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-03-02.12:56:52::SCWMssOS::Checking the sw design at  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2023-03-02.12:56:52::SCWMssOS::DEBUG:  swdes dump  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system||
+
+TRACE::2023-03-02.12:56:52::SCWMssOS::Sw design exists and opened at  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2023-03-02.12:56:52::SCWPlatform::Trying to open the hw design at D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.12:56:52::SCWPlatform::DSA given D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.12:56:52::SCWPlatform::DSA absoulate path D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.12:56:52::SCWPlatform::DSA directory D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw
+TRACE::2023-03-02.12:56:52::SCWPlatform:: Platform Path D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.12:56:52::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-03-02.12:56:52::SCWPlatform::Trying to set the existing hwdb with name PWM_2
+TRACE::2023-03-02.12:56:52::SCWPlatform::Opened existing hwdb PWM_2
+TRACE::2023-03-02.12:56:52::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-03-02.12:56:52::SCWMssOS::Checking the sw design at  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2023-03-02.12:56:52::SCWMssOS::DEBUG:  swdes dump  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system||
+
+TRACE::2023-03-02.12:56:52::SCWMssOS::Sw design exists and opened at  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2023-03-02.12:56:52::SCWPlatform::Trying to open the hw design at D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.12:56:52::SCWPlatform::DSA given D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.12:56:52::SCWPlatform::DSA absoulate path D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.12:56:52::SCWPlatform::DSA directory D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw
+TRACE::2023-03-02.12:56:52::SCWPlatform:: Platform Path D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.12:56:52::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-03-02.12:56:52::SCWPlatform::Trying to set the existing hwdb with name PWM_2
+TRACE::2023-03-02.12:56:52::SCWPlatform::Opened existing hwdb PWM_2
+TRACE::2023-03-02.12:56:52::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-03-02.12:56:52::SCWMssOS::Checking the sw design at  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2023-03-02.12:56:52::SCWMssOS::DEBUG:  swdes dump  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system||
+
+TRACE::2023-03-02.12:56:52::SCWMssOS::Sw design exists and opened at  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2023-03-02.12:56:52::SCWWriter::formatted JSON is {
+	"platformName":	"PWM_ex",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"PWM_ex",
+	"platHandOff":	"D:/Project/Wireless_Charge_PWM/PWM/PWM_ex.xsa",
+	"platIntHandOff":	"<platformDir>/hw/PWM_ex.xsa",
+	"deviceType":	"zynq",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"true",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"PWM_ex",
+	"systems":	[{
+			"systemName":	"PWM_ex",
+			"systemDesc":	"PWM_ex",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"PWM_ex",
+			"sysActiveDom":	"standalone_ps7_cortexa9_0",
+			"sysDefaultDom":	"standalone_ps7_cortexa9_0",
+			"domains":	[{
+					"domainName":	"standalone_ps7_cortexa9_0",
+					"domainDispName":	"standalone_ps7_cortexa9_0",
+					"domainDesc":	"standalone_ps7_cortexa9_0",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"qemuArgs":	"<platformDir>/resources/PWM_ex/standalone_ps7_cortexa9_0/qemu_args.txt",
+					"qemuData":	"<platformDir>/resources/PWM_ex/standalone_ps7_cortexa9_0/qemu",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"8.0",
+					"mssFile":	"",
+					"md5Digest":	"a01c6602601945bcfa76bcb90ce56ec0",
+					"compatibleApp":	"hello_world",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+KEYINFO::2023-03-02.12:56:52::SCWPlatform::updated the xpfm file.
+TRACE::2023-03-02.12:56:52::SCWPlatform::Trying to open the hw design at D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.12:56:52::SCWPlatform::DSA given D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.12:56:52::SCWPlatform::DSA absoulate path D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.12:56:52::SCWPlatform::DSA directory D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw
+TRACE::2023-03-02.12:56:52::SCWPlatform:: Platform Path D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.12:56:52::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-03-02.12:56:52::SCWPlatform::Trying to set the existing hwdb with name PWM_2
+TRACE::2023-03-02.12:56:52::SCWPlatform::Opened existing hwdb PWM_2
+TRACE::2023-03-02.12:56:52::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-03-02.12:56:52::SCWMssOS::Checking the sw design at  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2023-03-02.12:56:52::SCWMssOS::DEBUG:  swdes dump  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system||
+
+TRACE::2023-03-02.12:56:52::SCWMssOS::Sw design exists and opened at  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2023-03-02.12:56:52::SCWMssOS::Saving the mss changes D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2023-03-02.12:56:52::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2023-03-02.12:56:52::SCWMssOS::Completed writemss as part of save.
+TRACE::2023-03-02.12:56:52::SCWMssOS::Commit changes completed.
+TRACE::2023-03-02.12:56:52::SCWPlatform::Trying to open the hw design at D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.12:56:52::SCWPlatform::DSA given D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.12:56:52::SCWPlatform::DSA absoulate path D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.12:56:52::SCWPlatform::DSA directory D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw
+TRACE::2023-03-02.12:56:52::SCWPlatform:: Platform Path D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.12:56:52::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-03-02.12:56:52::SCWPlatform::Trying to set the existing hwdb with name PWM_2
+TRACE::2023-03-02.12:56:52::SCWPlatform::Opened existing hwdb PWM_2
+TRACE::2023-03-02.12:56:52::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-03-02.12:56:52::SCWMssOS::Checking the sw design at  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2023-03-02.12:56:52::SCWMssOS::DEBUG:  swdes dump  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system||
+
+TRACE::2023-03-02.12:56:52::SCWMssOS::Sw design exists and opened at  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2023-03-02.12:56:52::SCWPlatform::Trying to open the hw design at D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.12:56:52::SCWPlatform::DSA given D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.12:56:52::SCWPlatform::DSA absoulate path D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.12:56:52::SCWPlatform::DSA directory D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw
+TRACE::2023-03-02.12:56:52::SCWPlatform:: Platform Path D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.12:56:52::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-03-02.12:56:52::SCWPlatform::Trying to set the existing hwdb with name PWM_2
+TRACE::2023-03-02.12:56:52::SCWPlatform::Opened existing hwdb PWM_2
+TRACE::2023-03-02.12:56:52::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-03-02.12:56:52::SCWMssOS::Checking the sw design at  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2023-03-02.12:56:52::SCWMssOS::DEBUG:  swdes dump  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system||
+
+TRACE::2023-03-02.12:56:52::SCWMssOS::Sw design exists and opened at  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2023-03-02.12:56:52::SCWPlatform::Trying to open the hw design at D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.12:56:52::SCWPlatform::DSA given D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.12:56:52::SCWPlatform::DSA absoulate path D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.12:56:52::SCWPlatform::DSA directory D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw
+TRACE::2023-03-02.12:56:52::SCWPlatform:: Platform Path D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.12:56:52::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-03-02.12:56:52::SCWPlatform::Trying to set the existing hwdb with name PWM_2
+TRACE::2023-03-02.12:56:52::SCWPlatform::Opened existing hwdb PWM_2
+TRACE::2023-03-02.12:56:52::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-03-02.12:56:52::SCWMssOS::Checking the sw design at  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2023-03-02.12:56:52::SCWMssOS::DEBUG:  swdes dump  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system||
+
+TRACE::2023-03-02.12:56:52::SCWMssOS::Sw design exists and opened at  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2023-03-02.12:56:52::SCWWriter::formatted JSON is {
+	"platformName":	"PWM_ex",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"PWM_ex",
+	"platHandOff":	"D:/Project/Wireless_Charge_PWM/PWM/PWM_ex.xsa",
+	"platIntHandOff":	"<platformDir>/hw/PWM_ex.xsa",
+	"deviceType":	"zynq",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"true",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"PWM_ex",
+	"systems":	[{
+			"systemName":	"PWM_ex",
+			"systemDesc":	"PWM_ex",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"PWM_ex",
+			"sysActiveDom":	"standalone_ps7_cortexa9_0",
+			"sysDefaultDom":	"standalone_ps7_cortexa9_0",
+			"domains":	[{
+					"domainName":	"standalone_ps7_cortexa9_0",
+					"domainDispName":	"standalone_ps7_cortexa9_0",
+					"domainDesc":	"standalone_ps7_cortexa9_0",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"qemuArgs":	"<platformDir>/resources/PWM_ex/standalone_ps7_cortexa9_0/qemu_args.txt",
+					"qemuData":	"<platformDir>/resources/PWM_ex/standalone_ps7_cortexa9_0/qemu",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"8.0",
+					"mssFile":	"",
+					"md5Digest":	"a01c6602601945bcfa76bcb90ce56ec0",
+					"compatibleApp":	"hello_world",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+TRACE::2023-03-02.12:56:52::SCWPlatform::Trying to open the hw design at D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.12:56:52::SCWPlatform::DSA given D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.12:56:52::SCWPlatform::DSA absoulate path D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.12:56:52::SCWPlatform::DSA directory D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw
+TRACE::2023-03-02.12:56:52::SCWPlatform:: Platform Path D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.12:56:52::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-03-02.12:56:52::SCWPlatform::Trying to set the existing hwdb with name PWM_2
+TRACE::2023-03-02.12:56:52::SCWPlatform::Opened existing hwdb PWM_2
+TRACE::2023-03-02.12:56:52::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-03-02.12:56:52::SCWMssOS::Checking the sw design at  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2023-03-02.12:56:52::SCWMssOS::DEBUG:  swdes dump  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system||
+
+TRACE::2023-03-02.12:56:52::SCWMssOS::Sw design exists and opened at  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2023-03-02.12:56:52::SCWPlatform::Trying to open the hw design at D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.12:56:52::SCWPlatform::DSA given D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.12:56:52::SCWPlatform::DSA absoulate path D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.12:56:52::SCWPlatform::DSA directory D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw
+TRACE::2023-03-02.12:56:52::SCWPlatform:: Platform Path D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.12:56:52::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-03-02.12:56:52::SCWPlatform::Trying to set the existing hwdb with name PWM_2
+TRACE::2023-03-02.12:56:52::SCWPlatform::Opened existing hwdb PWM_2
+TRACE::2023-03-02.12:56:52::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-03-02.12:56:52::SCWMssOS::Checking the sw design at  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2023-03-02.12:56:52::SCWMssOS::DEBUG:  swdes dump  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system||
+
+TRACE::2023-03-02.12:56:52::SCWMssOS::Sw design exists and opened at  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2023-03-02.12:56:53::SCWMssOS::Saving the mss changes D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2023-03-02.12:56:53::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2023-03-02.12:56:53::SCWMssOS::Completed writemss as part of save.
+TRACE::2023-03-02.12:56:53::SCWMssOS::Commit changes completed.
+TRACE::2023-03-02.12:56:53::SCWPlatform::Trying to open the hw design at D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.12:56:53::SCWPlatform::DSA given D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.12:56:53::SCWPlatform::DSA absoulate path D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.12:56:53::SCWPlatform::DSA directory D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw
+TRACE::2023-03-02.12:56:53::SCWPlatform:: Platform Path D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.12:56:53::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-03-02.12:56:53::SCWPlatform::Trying to set the existing hwdb with name PWM_2
+TRACE::2023-03-02.12:56:53::SCWPlatform::Opened existing hwdb PWM_2
+TRACE::2023-03-02.12:56:53::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-03-02.12:56:53::SCWMssOS::Checking the sw design at  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2023-03-02.12:56:53::SCWMssOS::DEBUG:  swdes dump  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system||
+
+TRACE::2023-03-02.12:56:53::SCWMssOS::Sw design exists and opened at  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2023-03-02.12:56:53::SCWPlatform::Trying to open the hw design at D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.12:56:53::SCWPlatform::DSA given D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.12:56:53::SCWPlatform::DSA absoulate path D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.12:56:53::SCWPlatform::DSA directory D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw
+TRACE::2023-03-02.12:56:53::SCWPlatform:: Platform Path D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.12:56:53::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-03-02.12:56:53::SCWPlatform::Trying to set the existing hwdb with name PWM_2
+TRACE::2023-03-02.12:56:53::SCWPlatform::Opened existing hwdb PWM_2
+TRACE::2023-03-02.12:56:53::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-03-02.12:56:53::SCWMssOS::Checking the sw design at  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2023-03-02.12:56:53::SCWMssOS::DEBUG:  swdes dump  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system||
+
+TRACE::2023-03-02.12:56:53::SCWMssOS::Sw design exists and opened at  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2023-03-02.12:56:53::SCWPlatform::Trying to open the hw design at D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.12:56:53::SCWPlatform::DSA given D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.12:56:53::SCWPlatform::DSA absoulate path D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.12:56:53::SCWPlatform::DSA directory D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw
+TRACE::2023-03-02.12:56:53::SCWPlatform:: Platform Path D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.12:56:53::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-03-02.12:56:53::SCWPlatform::Trying to set the existing hwdb with name PWM_2
+TRACE::2023-03-02.12:56:53::SCWPlatform::Opened existing hwdb PWM_2
+TRACE::2023-03-02.12:56:53::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-03-02.12:56:53::SCWMssOS::Checking the sw design at  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2023-03-02.12:56:53::SCWMssOS::DEBUG:  swdes dump  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system||
+
+TRACE::2023-03-02.12:56:53::SCWMssOS::Sw design exists and opened at  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2023-03-02.12:56:53::SCWWriter::formatted JSON is {
+	"platformName":	"PWM_ex",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"PWM_ex",
+	"platHandOff":	"D:/Project/Wireless_Charge_PWM/PWM/PWM_ex.xsa",
+	"platIntHandOff":	"<platformDir>/hw/PWM_ex.xsa",
+	"deviceType":	"zynq",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"true",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"PWM_ex",
+	"systems":	[{
+			"systemName":	"PWM_ex",
+			"systemDesc":	"PWM_ex",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"PWM_ex",
+			"sysActiveDom":	"standalone_ps7_cortexa9_0",
+			"sysDefaultDom":	"standalone_ps7_cortexa9_0",
+			"domains":	[{
+					"domainName":	"standalone_ps7_cortexa9_0",
+					"domainDispName":	"standalone_ps7_cortexa9_0",
+					"domainDesc":	"standalone_ps7_cortexa9_0",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"qemuArgs":	"<platformDir>/resources/PWM_ex/standalone_ps7_cortexa9_0/qemu_args.txt",
+					"qemuData":	"<platformDir>/resources/PWM_ex/standalone_ps7_cortexa9_0/qemu",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"8.0",
+					"mssFile":	"",
+					"md5Digest":	"a01c6602601945bcfa76bcb90ce56ec0",
+					"compatibleApp":	"hello_world",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+LOG::2023-03-02.12:56:53::SCWPlatform::Started generating the artifacts platform PWM_ex
+TRACE::2023-03-02.12:56:53::SCWPlatform::Sanity checking of platform is completed
+LOG::2023-03-02.12:56:53::SCWPlatform::Started generating the artifacts for system configuration PWM_ex
+LOG::2023-03-02.12:56:53::SCWSystem::Started Processing the domain standalone_ps7_cortexa9_0
+TRACE::2023-03-02.12:56:53::SCWDomain::Generating domain artifcats
+TRACE::2023-03-02.12:56:53::SCWMssOS::Generating standalone artifcats
+TRACE::2023-03-02.12:56:53::SCWMssOS::Copying the qemu file from  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/resources/PWM_ex/standalone_ps7_cortexa9_0/qemu_args.txt To D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/export/PWM_ex/sw/PWM_ex/qemu/
+TRACE::2023-03-02.12:56:53::SCWMssOS::Copying the qemu file from  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/resources/PWM_ex/standalone_ps7_cortexa9_0/qemu_args.txt To D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/export/PWM_ex/sw/PWM_ex/standalone_ps7_cortexa9_0/qemu/
+TRACE::2023-03-02.12:56:53::SCWMssOS:: Copying the user libraries. 
+TRACE::2023-03-02.12:56:53::SCWPlatform::Trying to open the hw design at D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.12:56:53::SCWPlatform::DSA given D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.12:56:53::SCWPlatform::DSA absoulate path D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.12:56:53::SCWPlatform::DSA directory D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw
+TRACE::2023-03-02.12:56:53::SCWPlatform:: Platform Path D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.12:56:53::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-03-02.12:56:53::SCWPlatform::Trying to set the existing hwdb with name PWM_2
+TRACE::2023-03-02.12:56:53::SCWPlatform::Opened existing hwdb PWM_2
+TRACE::2023-03-02.12:56:53::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-03-02.12:56:53::SCWMssOS::Checking the sw design at  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2023-03-02.12:56:53::SCWMssOS::DEBUG:  swdes dump  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system||
+
+TRACE::2023-03-02.12:56:53::SCWMssOS::Sw design exists and opened at  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2023-03-02.12:56:53::SCWMssOS::Completed writing the mss file at D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp
+TRACE::2023-03-02.12:56:53::SCWMssOS::Mss edits present, copying mssfile into export location D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2023-03-02.12:56:53::SCWMssOS::bsp generated is upto date with the mss file. Skipping bsp generation.
+TRACE::2023-03-02.12:56:53::SCWMssOS::BSP is already built. skipping the bsp build ... 
+TRACE::2023-03-02.12:56:53::SCWDomain::Building the domain as part of full build :  standalone_ps7_cortexa9_0
+TRACE::2023-03-02.12:56:53::SCWMssOS::skipping the bsp build ... 
+TRACE::2023-03-02.12:56:53::SCWMssOS::Copying to export directory.
+TRACE::2023-03-02.12:56:53::SCWMssOS:: Checking if to create the Supporting Applications
+TRACE::2023-03-02.12:56:53::SCWMssOS:: No Linux domain exists, trying to generate FSBL 
+TRACE::2023-03-02.12:56:53::SCWMssOS:: Completed Standalone Artifacts creation 
+LOG::2023-03-02.12:56:53::SCWSystem::Completed Processing the domain standalone_ps7_cortexa9_0
+LOG::2023-03-02.12:56:53::SCWSystem::Completed Processing the sysconfig PWM_ex
+LOG::2023-03-02.12:56:53::SCWPlatform::Completed generating the artifacts for system configuration PWM_ex
+TRACE::2023-03-02.12:56:53::SCWPlatform::Started preparing the platform 
+TRACE::2023-03-02.12:56:53::SCWSystem::Writing the bif file for system config PWM_ex
+TRACE::2023-03-02.12:56:53::SCWSystem::dir created 
+TRACE::2023-03-02.12:56:53::SCWSystem::Writing the bif 
+TRACE::2023-03-02.12:56:53::SCWPlatform::Started writing the spfm file 
+TRACE::2023-03-02.12:56:53::SCWPlatform::Started writing the xpfm file 
+TRACE::2023-03-02.12:56:53::SCWPlatform::Completed generating the platform
+TRACE::2023-03-02.12:56:53::SCWMssOS::Saving the mss changes D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2023-03-02.12:56:53::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2023-03-02.12:56:53::SCWMssOS::Completed writemss as part of save.
+TRACE::2023-03-02.12:56:53::SCWMssOS::Commit changes completed.
+TRACE::2023-03-02.12:56:53::SCWPlatform::Trying to open the hw design at D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.12:56:53::SCWPlatform::DSA given D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.12:56:53::SCWPlatform::DSA absoulate path D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.12:56:53::SCWPlatform::DSA directory D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw
+TRACE::2023-03-02.12:56:53::SCWPlatform:: Platform Path D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.12:56:53::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-03-02.12:56:53::SCWPlatform::Trying to set the existing hwdb with name PWM_2
+TRACE::2023-03-02.12:56:53::SCWPlatform::Opened existing hwdb PWM_2
+TRACE::2023-03-02.12:56:53::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-03-02.12:56:53::SCWMssOS::Checking the sw design at  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2023-03-02.12:56:53::SCWMssOS::DEBUG:  swdes dump  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system||
+
+TRACE::2023-03-02.12:56:53::SCWMssOS::Sw design exists and opened at  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2023-03-02.12:56:53::SCWPlatform::Trying to open the hw design at D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.12:56:53::SCWPlatform::DSA given D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.12:56:53::SCWPlatform::DSA absoulate path D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.12:56:53::SCWPlatform::DSA directory D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw
+TRACE::2023-03-02.12:56:53::SCWPlatform:: Platform Path D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.12:56:53::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-03-02.12:56:53::SCWPlatform::Trying to set the existing hwdb with name PWM_2
+TRACE::2023-03-02.12:56:53::SCWPlatform::Opened existing hwdb PWM_2
+TRACE::2023-03-02.12:56:53::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-03-02.12:56:53::SCWMssOS::Checking the sw design at  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2023-03-02.12:56:53::SCWMssOS::DEBUG:  swdes dump  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system||
+
+TRACE::2023-03-02.12:56:53::SCWMssOS::Sw design exists and opened at  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2023-03-02.12:56:53::SCWPlatform::Trying to open the hw design at D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.12:56:53::SCWPlatform::DSA given D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.12:56:53::SCWPlatform::DSA absoulate path D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.12:56:53::SCWPlatform::DSA directory D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw
+TRACE::2023-03-02.12:56:53::SCWPlatform:: Platform Path D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.12:56:53::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-03-02.12:56:53::SCWPlatform::Trying to set the existing hwdb with name PWM_2
+TRACE::2023-03-02.12:56:53::SCWPlatform::Opened existing hwdb PWM_2
+TRACE::2023-03-02.12:56:53::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-03-02.12:56:53::SCWMssOS::Checking the sw design at  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2023-03-02.12:56:53::SCWMssOS::DEBUG:  swdes dump  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system||
+
+TRACE::2023-03-02.12:56:53::SCWMssOS::Sw design exists and opened at  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2023-03-02.12:56:53::SCWWriter::formatted JSON is {
+	"platformName":	"PWM_ex",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"PWM_ex",
+	"platHandOff":	"D:/Project/Wireless_Charge_PWM/PWM/PWM_ex.xsa",
+	"platIntHandOff":	"<platformDir>/hw/PWM_ex.xsa",
+	"deviceType":	"zynq",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"true",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"PWM_ex",
+	"systems":	[{
+			"systemName":	"PWM_ex",
+			"systemDesc":	"PWM_ex",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"PWM_ex",
+			"sysActiveDom":	"standalone_ps7_cortexa9_0",
+			"sysDefaultDom":	"standalone_ps7_cortexa9_0",
+			"domains":	[{
+					"domainName":	"standalone_ps7_cortexa9_0",
+					"domainDispName":	"standalone_ps7_cortexa9_0",
+					"domainDesc":	"standalone_ps7_cortexa9_0",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"qemuArgs":	"<platformDir>/resources/PWM_ex/standalone_ps7_cortexa9_0/qemu_args.txt",
+					"qemuData":	"<platformDir>/resources/PWM_ex/standalone_ps7_cortexa9_0/qemu",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"8.0",
+					"mssFile":	"",
+					"md5Digest":	"a01c6602601945bcfa76bcb90ce56ec0",
+					"compatibleApp":	"hello_world",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+KEYINFO::2023-03-02.12:56:53::SCWPlatform::updated the xpfm file.
+LOG::2023-03-02.12:58:57::SCWPlatform::Started generating the artifacts platform PWM_ex
+TRACE::2023-03-02.12:58:57::SCWPlatform::Sanity checking of platform is completed
+LOG::2023-03-02.12:58:57::SCWPlatform::Started generating the artifacts for system configuration PWM_ex
+LOG::2023-03-02.12:58:57::SCWSystem::Checking the domain standalone_ps7_cortexa9_0
+LOG::2023-03-02.12:58:57::SCWSystem::Not a boot domain 
+LOG::2023-03-02.12:58:57::SCWSystem::Started Processing the domain standalone_ps7_cortexa9_0
+TRACE::2023-03-02.12:58:57::SCWDomain::Generating domain artifcats
+TRACE::2023-03-02.12:58:57::SCWMssOS::Generating standalone artifcats
+TRACE::2023-03-02.12:58:57::SCWMssOS::Copying the qemu file from  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/resources/PWM_ex/standalone_ps7_cortexa9_0/qemu_args.txt To D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/export/PWM_ex/sw/PWM_ex/qemu/
+TRACE::2023-03-02.12:58:57::SCWMssOS::Copying the qemu file from  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/resources/PWM_ex/standalone_ps7_cortexa9_0/qemu_args.txt To D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/export/PWM_ex/sw/PWM_ex/standalone_ps7_cortexa9_0/qemu/
+TRACE::2023-03-02.12:58:57::SCWMssOS:: Copying the user libraries. 
+TRACE::2023-03-02.12:58:57::SCWPlatform::Trying to open the hw design at D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.12:58:57::SCWPlatform::DSA given D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.12:58:57::SCWPlatform::DSA absoulate path D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.12:58:57::SCWPlatform::DSA directory D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw
+TRACE::2023-03-02.12:58:57::SCWPlatform:: Platform Path D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.12:58:57::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-03-02.12:58:57::SCWPlatform::Trying to set the existing hwdb with name PWM_2
+TRACE::2023-03-02.12:58:57::SCWPlatform::Opened existing hwdb PWM_2
+TRACE::2023-03-02.12:58:57::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-03-02.12:58:57::SCWMssOS::Checking the sw design at  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2023-03-02.12:58:57::SCWMssOS::DEBUG:  swdes dump  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system||
+
+TRACE::2023-03-02.12:58:57::SCWMssOS::Sw design exists and opened at  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2023-03-02.12:58:57::SCWMssOS::Completed writing the mss file at D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp
+TRACE::2023-03-02.12:58:57::SCWMssOS::Mss edits present, copying mssfile into export location D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2023-03-02.12:58:57::SCWMssOS::bsp generated is upto date with the mss file. Skipping bsp generation.
+TRACE::2023-03-02.12:58:57::SCWMssOS::BSP is already built. skipping the bsp build ... 
+TRACE::2023-03-02.12:58:57::SCWDomain::Building the domain as part of full build :  standalone_ps7_cortexa9_0
+TRACE::2023-03-02.12:58:57::SCWMssOS::doing bsp build ... 
+TRACE::2023-03-02.12:58:57::SCWMssOS::System Command Ran  D: & cd  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp & make 
+TRACE::2023-03-02.12:58:57::SCWMssOS::make --no-print-directory seq_libs
+
+TRACE::2023-03-02.12:58:57::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/COM_IP_v1_0/src"
+
+TRACE::2023-03-02.12:58:57::SCWMssOS::make -C ps7_cortexa9_0/libsrc/COM_IP_v1_0/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2023-03-02.12:58:57::SCWMssOS:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2023-03-02.12:58:57::SCWMssOS::artfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2023-03-02.12:58:57::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/coresightps_dcc_v1_8/src"
+
+TRACE::2023-03-02.12:58:57::SCWMssOS::make -C ps7_cortexa9_0/libsrc/coresightps_dcc_v1_8/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none
+TRACE::2023-03-02.12:58:57::SCWMssOS::-eabi-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=h
+TRACE::2023-03-02.12:58:57::SCWMssOS::ard -nostartfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2023-03-02.12:58:57::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_11/src"
+
+TRACE::2023-03-02.12:58:57::SCWMssOS::make -C ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_11/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-e
+TRACE::2023-03-02.12:58:57::SCWMssOS::abi-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=har
+TRACE::2023-03-02.12:58:57::SCWMssOS::d -nostartfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2023-03-02.12:58:57::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/ddrps_v1_2/src"
+
+TRACE::2023-03-02.12:58:57::SCWMssOS::make -C ps7_cortexa9_0/libsrc/ddrps_v1_2/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" 
+TRACE::2023-03-02.12:58:57::SCWMssOS::"ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nosta
+TRACE::2023-03-02.12:58:57::SCWMssOS::rtfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2023-03-02.12:58:57::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/devcfg_v3_7/src"
+
+TRACE::2023-03-02.12:58:57::SCWMssOS::make -C ps7_cortexa9_0/libsrc/devcfg_v3_7/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2023-03-02.12:58:57::SCWMssOS:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2023-03-02.12:58:57::SCWMssOS::artfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2023-03-02.12:58:57::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/dmaps_v2_8/src"
+
+TRACE::2023-03-02.12:58:57::SCWMssOS::make -C ps7_cortexa9_0/libsrc/dmaps_v2_8/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" 
+TRACE::2023-03-02.12:58:57::SCWMssOS::"ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nosta
+TRACE::2023-03-02.12:58:57::SCWMssOS::rtfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2023-03-02.12:58:57::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/gpiops_v3_10/src"
+
+TRACE::2023-03-02.12:58:57::SCWMssOS::make -C ps7_cortexa9_0/libsrc/gpiops_v3_10/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as
+TRACE::2023-03-02.12:58:57::SCWMssOS::" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nos
+TRACE::2023-03-02.12:58:57::SCWMssOS::tartfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2023-03-02.12:58:57::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/scugic_v5_0/src"
+
+TRACE::2023-03-02.12:58:57::SCWMssOS::make -C ps7_cortexa9_0/libsrc/scugic_v5_0/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2023-03-02.12:58:57::SCWMssOS:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2023-03-02.12:58:57::SCWMssOS::artfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2023-03-02.12:58:57::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/scutimer_v2_4/src"
+
+TRACE::2023-03-02.12:58:57::SCWMssOS::make -C ps7_cortexa9_0/libsrc/scutimer_v2_4/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-a
+TRACE::2023-03-02.12:58:57::SCWMssOS::s" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -no
+TRACE::2023-03-02.12:58:57::SCWMssOS::startfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2023-03-02.12:58:57::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/scuwdt_v2_4/src"
+
+TRACE::2023-03-02.12:58:57::SCWMssOS::make -C ps7_cortexa9_0/libsrc/scuwdt_v2_4/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2023-03-02.12:58:57::SCWMssOS:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2023-03-02.12:58:57::SCWMssOS::artfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2023-03-02.12:58:57::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/standalone_v8_0/src"
+
+TRACE::2023-03-02.12:58:57::SCWMssOS::make -C ps7_cortexa9_0/libsrc/standalone_v8_0/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi
+TRACE::2023-03-02.12:58:57::SCWMssOS::-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -
+TRACE::2023-03-02.12:58:57::SCWMssOS::nostartfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2023-03-02.12:58:57::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/uartps_v3_11/src"
+
+TRACE::2023-03-02.12:58:57::SCWMssOS::make -C ps7_cortexa9_0/libsrc/uartps_v3_11/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as
+TRACE::2023-03-02.12:58:57::SCWMssOS::" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nos
+TRACE::2023-03-02.12:58:57::SCWMssOS::tartfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2023-03-02.12:58:57::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/xadcps_v2_6/src"
+
+TRACE::2023-03-02.12:58:57::SCWMssOS::make -C ps7_cortexa9_0/libsrc/xadcps_v2_6/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2023-03-02.12:58:57::SCWMssOS:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2023-03-02.12:58:57::SCWMssOS::artfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2023-03-02.12:58:58::SCWMssOS::"Running Make libs in ps7_cortexa9_0/libsrc/COM_IP_v1_0/src"
+
+TRACE::2023-03-02.12:58:58::SCWMssOS::make -C ps7_cortexa9_0/libsrc/COM_IP_v1_0/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "A
+TRACE::2023-03-02.12:58:58::SCWMssOS::RCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostart
+TRACE::2023-03-02.12:58:58::SCWMssOS::files -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2023-03-02.12:58:58::SCWMssOS::"Compiling COM_IP..."
+
+ERROR::2023-03-02.12:58:58::SCWMssOS::Failed to build  the bsp sources for domain - standalone_ps7_cortexa9_0
+ERROR::2023-03-02.12:58:58::SCWSystem::Error in Processing the domain standalone_ps7_cortexa9_0
+LOG::2023-03-02.13:02:06::SCWPlatform::Started generating the artifacts platform PWM_ex
+TRACE::2023-03-02.13:02:06::SCWPlatform::Sanity checking of platform is completed
+LOG::2023-03-02.13:02:06::SCWPlatform::Started generating the artifacts for system configuration PWM_ex
+LOG::2023-03-02.13:02:06::SCWSystem::Checking the domain standalone_ps7_cortexa9_0
+LOG::2023-03-02.13:02:06::SCWSystem::Not a boot domain 
+LOG::2023-03-02.13:02:06::SCWSystem::Started Processing the domain standalone_ps7_cortexa9_0
+TRACE::2023-03-02.13:02:06::SCWDomain::Generating domain artifcats
+TRACE::2023-03-02.13:02:06::SCWMssOS::Generating standalone artifcats
+TRACE::2023-03-02.13:02:06::SCWMssOS::Copying the qemu file from  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/resources/PWM_ex/standalone_ps7_cortexa9_0/qemu_args.txt To D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/export/PWM_ex/sw/PWM_ex/standalone_ps7_cortexa9_0/qemu/
+TRACE::2023-03-02.13:02:06::SCWMssOS:: Copying the user libraries. 
+TRACE::2023-03-02.13:02:06::SCWPlatform::Trying to open the hw design at D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.13:02:06::SCWPlatform::DSA given D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.13:02:06::SCWPlatform::DSA absoulate path D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.13:02:06::SCWPlatform::DSA directory D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw
+TRACE::2023-03-02.13:02:06::SCWPlatform:: Platform Path D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.13:02:06::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-03-02.13:02:06::SCWPlatform::Trying to set the existing hwdb with name PWM_2
+TRACE::2023-03-02.13:02:06::SCWPlatform::Opened existing hwdb PWM_2
+TRACE::2023-03-02.13:02:06::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-03-02.13:02:06::SCWMssOS::Checking the sw design at  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2023-03-02.13:02:06::SCWMssOS::DEBUG:  swdes dump  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system||
+
+TRACE::2023-03-02.13:02:06::SCWMssOS::Sw design exists and opened at  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2023-03-02.13:02:06::SCWMssOS::Completed writing the mss file at D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp
+TRACE::2023-03-02.13:02:06::SCWMssOS::Mss edits present, copying mssfile into export location D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2023-03-02.13:02:06::SCWMssOS::bsp generated is upto date with the mss file. Skipping bsp generation.
+TRACE::2023-03-02.13:02:06::SCWMssOS::BSP is already built. skipping the bsp build ... 
+TRACE::2023-03-02.13:02:06::SCWDomain::Building the domain as part of full build :  standalone_ps7_cortexa9_0
+TRACE::2023-03-02.13:02:06::SCWMssOS::doing bsp build ... 
+TRACE::2023-03-02.13:02:06::SCWMssOS::System Command Ran  D: & cd  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp & make 
+TRACE::2023-03-02.13:02:06::SCWMssOS::make --no-print-directory seq_libs
+
+TRACE::2023-03-02.13:02:06::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/COM_IP_v1_0/src"
+
+TRACE::2023-03-02.13:02:06::SCWMssOS::make -C ps7_cortexa9_0/libsrc/COM_IP_v1_0/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2023-03-02.13:02:06::SCWMssOS:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2023-03-02.13:02:06::SCWMssOS::artfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2023-03-02.13:02:06::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/coresightps_dcc_v1_8/src"
+
+TRACE::2023-03-02.13:02:06::SCWMssOS::make -C ps7_cortexa9_0/libsrc/coresightps_dcc_v1_8/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none
+TRACE::2023-03-02.13:02:06::SCWMssOS::-eabi-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=h
+TRACE::2023-03-02.13:02:06::SCWMssOS::ard -nostartfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2023-03-02.13:02:06::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_11/src"
+
+TRACE::2023-03-02.13:02:06::SCWMssOS::make -C ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_11/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-e
+TRACE::2023-03-02.13:02:06::SCWMssOS::abi-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=har
+TRACE::2023-03-02.13:02:06::SCWMssOS::d -nostartfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2023-03-02.13:02:06::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/ddrps_v1_2/src"
+
+TRACE::2023-03-02.13:02:06::SCWMssOS::make -C ps7_cortexa9_0/libsrc/ddrps_v1_2/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" 
+TRACE::2023-03-02.13:02:06::SCWMssOS::"ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nosta
+TRACE::2023-03-02.13:02:06::SCWMssOS::rtfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2023-03-02.13:02:06::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/devcfg_v3_7/src"
+
+TRACE::2023-03-02.13:02:06::SCWMssOS::make -C ps7_cortexa9_0/libsrc/devcfg_v3_7/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2023-03-02.13:02:06::SCWMssOS:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2023-03-02.13:02:06::SCWMssOS::artfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2023-03-02.13:02:06::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/dmaps_v2_8/src"
+
+TRACE::2023-03-02.13:02:06::SCWMssOS::make -C ps7_cortexa9_0/libsrc/dmaps_v2_8/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" 
+TRACE::2023-03-02.13:02:06::SCWMssOS::"ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nosta
+TRACE::2023-03-02.13:02:06::SCWMssOS::rtfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2023-03-02.13:02:06::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/gpiops_v3_10/src"
+
+TRACE::2023-03-02.13:02:06::SCWMssOS::make -C ps7_cortexa9_0/libsrc/gpiops_v3_10/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as
+TRACE::2023-03-02.13:02:06::SCWMssOS::" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nos
+TRACE::2023-03-02.13:02:06::SCWMssOS::tartfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2023-03-02.13:02:06::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/scugic_v5_0/src"
+
+TRACE::2023-03-02.13:02:06::SCWMssOS::make -C ps7_cortexa9_0/libsrc/scugic_v5_0/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2023-03-02.13:02:06::SCWMssOS:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2023-03-02.13:02:06::SCWMssOS::artfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2023-03-02.13:02:06::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/scutimer_v2_4/src"
+
+TRACE::2023-03-02.13:02:06::SCWMssOS::make -C ps7_cortexa9_0/libsrc/scutimer_v2_4/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-a
+TRACE::2023-03-02.13:02:06::SCWMssOS::s" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -no
+TRACE::2023-03-02.13:02:06::SCWMssOS::startfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2023-03-02.13:02:06::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/scuwdt_v2_4/src"
+
+TRACE::2023-03-02.13:02:06::SCWMssOS::make -C ps7_cortexa9_0/libsrc/scuwdt_v2_4/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2023-03-02.13:02:06::SCWMssOS:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2023-03-02.13:02:06::SCWMssOS::artfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2023-03-02.13:02:06::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/standalone_v8_0/src"
+
+TRACE::2023-03-02.13:02:06::SCWMssOS::make -C ps7_cortexa9_0/libsrc/standalone_v8_0/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi
+TRACE::2023-03-02.13:02:06::SCWMssOS::-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -
+TRACE::2023-03-02.13:02:06::SCWMssOS::nostartfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2023-03-02.13:02:06::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/uartps_v3_11/src"
+
+TRACE::2023-03-02.13:02:06::SCWMssOS::make -C ps7_cortexa9_0/libsrc/uartps_v3_11/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as
+TRACE::2023-03-02.13:02:06::SCWMssOS::" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nos
+TRACE::2023-03-02.13:02:06::SCWMssOS::tartfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2023-03-02.13:02:06::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/xadcps_v2_6/src"
+
+TRACE::2023-03-02.13:02:06::SCWMssOS::make -C ps7_cortexa9_0/libsrc/xadcps_v2_6/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2023-03-02.13:02:06::SCWMssOS:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2023-03-02.13:02:06::SCWMssOS::artfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2023-03-02.13:02:06::SCWMssOS::"Running Make libs in ps7_cortexa9_0/libsrc/COM_IP_v1_0/src"
+
+TRACE::2023-03-02.13:02:06::SCWMssOS::make -C ps7_cortexa9_0/libsrc/COM_IP_v1_0/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "A
+TRACE::2023-03-02.13:02:06::SCWMssOS::RCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostart
+TRACE::2023-03-02.13:02:06::SCWMssOS::files -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2023-03-02.13:02:06::SCWMssOS::"Compiling COM_IP..."
+
+ERROR::2023-03-02.13:02:06::SCWMssOS::Failed to build  the bsp sources for domain - standalone_ps7_cortexa9_0
+ERROR::2023-03-02.13:02:06::SCWSystem::Error in Processing the domain standalone_ps7_cortexa9_0
+LOG::2023-03-02.13:02:48::SCWPlatform::Started generating the artifacts platform PWM_ex
+TRACE::2023-03-02.13:02:48::SCWPlatform::Sanity checking of platform is completed
+LOG::2023-03-02.13:02:48::SCWPlatform::Started generating the artifacts for system configuration PWM_ex
+LOG::2023-03-02.13:02:48::SCWSystem::Checking the domain standalone_ps7_cortexa9_0
+LOG::2023-03-02.13:02:48::SCWSystem::Not a boot domain 
+LOG::2023-03-02.13:02:48::SCWSystem::Started Processing the domain standalone_ps7_cortexa9_0
+TRACE::2023-03-02.13:02:48::SCWDomain::Generating domain artifcats
+TRACE::2023-03-02.13:02:48::SCWMssOS::Generating standalone artifcats
+TRACE::2023-03-02.13:02:48::SCWMssOS::Copying the qemu file from  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/resources/PWM_ex/standalone_ps7_cortexa9_0/qemu_args.txt To D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/export/PWM_ex/sw/PWM_ex/standalone_ps7_cortexa9_0/qemu/
+TRACE::2023-03-02.13:02:48::SCWMssOS:: Copying the user libraries. 
+TRACE::2023-03-02.13:02:48::SCWPlatform::Trying to open the hw design at D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.13:02:48::SCWPlatform::DSA given D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.13:02:48::SCWPlatform::DSA absoulate path D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.13:02:48::SCWPlatform::DSA directory D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw
+TRACE::2023-03-02.13:02:48::SCWPlatform:: Platform Path D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.13:02:48::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-03-02.13:02:48::SCWPlatform::Trying to set the existing hwdb with name PWM_2
+TRACE::2023-03-02.13:02:48::SCWPlatform::Opened existing hwdb PWM_2
+TRACE::2023-03-02.13:02:48::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-03-02.13:02:48::SCWMssOS::Checking the sw design at  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2023-03-02.13:02:48::SCWMssOS::DEBUG:  swdes dump  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system||
+
+TRACE::2023-03-02.13:02:48::SCWMssOS::Sw design exists and opened at  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2023-03-02.13:02:48::SCWMssOS::Completed writing the mss file at D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp
+TRACE::2023-03-02.13:02:48::SCWMssOS::Mss edits present, copying mssfile into export location D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2023-03-02.13:02:48::SCWMssOS::bsp generated is upto date with the mss file. Skipping bsp generation.
+TRACE::2023-03-02.13:02:48::SCWMssOS::BSP is already built. skipping the bsp build ... 
+TRACE::2023-03-02.13:02:48::SCWDomain::Building the domain as part of full build :  standalone_ps7_cortexa9_0
+TRACE::2023-03-02.13:02:48::SCWMssOS::doing bsp build ... 
+TRACE::2023-03-02.13:02:48::SCWMssOS::System Command Ran  D: & cd  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp & make 
+TRACE::2023-03-02.13:02:48::SCWMssOS::make --no-print-directory seq_libs
+
+TRACE::2023-03-02.13:02:48::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/COM_IP_v1_0/src"
+
+TRACE::2023-03-02.13:02:48::SCWMssOS::make -C ps7_cortexa9_0/libsrc/COM_IP_v1_0/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2023-03-02.13:02:48::SCWMssOS:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2023-03-02.13:02:48::SCWMssOS::artfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2023-03-02.13:02:48::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/coresightps_dcc_v1_8/src"
+
+TRACE::2023-03-02.13:02:48::SCWMssOS::make -C ps7_cortexa9_0/libsrc/coresightps_dcc_v1_8/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none
+TRACE::2023-03-02.13:02:48::SCWMssOS::-eabi-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=h
+TRACE::2023-03-02.13:02:48::SCWMssOS::ard -nostartfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2023-03-02.13:02:48::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_11/src"
+
+TRACE::2023-03-02.13:02:48::SCWMssOS::make -C ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_11/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-e
+TRACE::2023-03-02.13:02:48::SCWMssOS::abi-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=har
+TRACE::2023-03-02.13:02:48::SCWMssOS::d -nostartfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2023-03-02.13:02:48::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/ddrps_v1_2/src"
+
+TRACE::2023-03-02.13:02:48::SCWMssOS::make -C ps7_cortexa9_0/libsrc/ddrps_v1_2/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" 
+TRACE::2023-03-02.13:02:48::SCWMssOS::"ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nosta
+TRACE::2023-03-02.13:02:48::SCWMssOS::rtfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2023-03-02.13:02:48::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/devcfg_v3_7/src"
+
+TRACE::2023-03-02.13:02:48::SCWMssOS::make -C ps7_cortexa9_0/libsrc/devcfg_v3_7/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2023-03-02.13:02:48::SCWMssOS:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2023-03-02.13:02:48::SCWMssOS::artfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2023-03-02.13:02:48::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/dmaps_v2_8/src"
+
+TRACE::2023-03-02.13:02:48::SCWMssOS::make -C ps7_cortexa9_0/libsrc/dmaps_v2_8/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" 
+TRACE::2023-03-02.13:02:48::SCWMssOS::"ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nosta
+TRACE::2023-03-02.13:02:48::SCWMssOS::rtfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2023-03-02.13:02:48::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/gpiops_v3_10/src"
+
+TRACE::2023-03-02.13:02:48::SCWMssOS::make -C ps7_cortexa9_0/libsrc/gpiops_v3_10/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as
+TRACE::2023-03-02.13:02:48::SCWMssOS::" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nos
+TRACE::2023-03-02.13:02:48::SCWMssOS::tartfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2023-03-02.13:02:48::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/scugic_v5_0/src"
+
+TRACE::2023-03-02.13:02:48::SCWMssOS::make -C ps7_cortexa9_0/libsrc/scugic_v5_0/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2023-03-02.13:02:48::SCWMssOS:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2023-03-02.13:02:48::SCWMssOS::artfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2023-03-02.13:02:48::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/scutimer_v2_4/src"
+
+TRACE::2023-03-02.13:02:48::SCWMssOS::make -C ps7_cortexa9_0/libsrc/scutimer_v2_4/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-a
+TRACE::2023-03-02.13:02:48::SCWMssOS::s" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -no
+TRACE::2023-03-02.13:02:48::SCWMssOS::startfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2023-03-02.13:02:48::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/scuwdt_v2_4/src"
+
+TRACE::2023-03-02.13:02:48::SCWMssOS::make -C ps7_cortexa9_0/libsrc/scuwdt_v2_4/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2023-03-02.13:02:48::SCWMssOS:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2023-03-02.13:02:48::SCWMssOS::artfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2023-03-02.13:02:48::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/standalone_v8_0/src"
+
+TRACE::2023-03-02.13:02:48::SCWMssOS::make -C ps7_cortexa9_0/libsrc/standalone_v8_0/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi
+TRACE::2023-03-02.13:02:48::SCWMssOS::-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -
+TRACE::2023-03-02.13:02:48::SCWMssOS::nostartfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2023-03-02.13:02:48::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/uartps_v3_11/src"
+
+TRACE::2023-03-02.13:02:48::SCWMssOS::make -C ps7_cortexa9_0/libsrc/uartps_v3_11/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as
+TRACE::2023-03-02.13:02:48::SCWMssOS::" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nos
+TRACE::2023-03-02.13:02:48::SCWMssOS::tartfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2023-03-02.13:02:48::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/xadcps_v2_6/src"
+
+TRACE::2023-03-02.13:02:48::SCWMssOS::make -C ps7_cortexa9_0/libsrc/xadcps_v2_6/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2023-03-02.13:02:48::SCWMssOS:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2023-03-02.13:02:48::SCWMssOS::artfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2023-03-02.13:02:48::SCWMssOS::"Running Make libs in ps7_cortexa9_0/libsrc/COM_IP_v1_0/src"
+
+TRACE::2023-03-02.13:02:48::SCWMssOS::make -C ps7_cortexa9_0/libsrc/COM_IP_v1_0/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "A
+TRACE::2023-03-02.13:02:48::SCWMssOS::RCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostart
+TRACE::2023-03-02.13:02:48::SCWMssOS::files -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2023-03-02.13:02:48::SCWMssOS::"Compiling COM_IP..."
+
+ERROR::2023-03-02.13:02:48::SCWMssOS::Failed to build  the bsp sources for domain - standalone_ps7_cortexa9_0
+ERROR::2023-03-02.13:02:48::SCWSystem::Error in Processing the domain standalone_ps7_cortexa9_0
+LOG::2023-03-02.13:03:05::SCWPlatform::Started generating the artifacts platform PWM_ex
+TRACE::2023-03-02.13:03:05::SCWPlatform::Sanity checking of platform is completed
+LOG::2023-03-02.13:03:05::SCWPlatform::Started generating the artifacts for system configuration PWM_ex
+LOG::2023-03-02.13:03:05::SCWSystem::Checking the domain standalone_ps7_cortexa9_0
+LOG::2023-03-02.13:03:05::SCWSystem::Not a boot domain 
+LOG::2023-03-02.13:03:05::SCWSystem::Started Processing the domain standalone_ps7_cortexa9_0
+TRACE::2023-03-02.13:03:05::SCWDomain::Generating domain artifcats
+TRACE::2023-03-02.13:03:05::SCWMssOS::Generating standalone artifcats
+TRACE::2023-03-02.13:03:05::SCWMssOS::Copying the qemu file from  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/resources/PWM_ex/standalone_ps7_cortexa9_0/qemu_args.txt To D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/export/PWM_ex/sw/PWM_ex/standalone_ps7_cortexa9_0/qemu/
+TRACE::2023-03-02.13:03:05::SCWMssOS:: Copying the user libraries. 
+TRACE::2023-03-02.13:03:05::SCWPlatform::Trying to open the hw design at D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.13:03:05::SCWPlatform::DSA given D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.13:03:05::SCWPlatform::DSA absoulate path D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.13:03:05::SCWPlatform::DSA directory D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw
+TRACE::2023-03-02.13:03:05::SCWPlatform:: Platform Path D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.13:03:05::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-03-02.13:03:05::SCWPlatform::Trying to set the existing hwdb with name PWM_2
+TRACE::2023-03-02.13:03:05::SCWPlatform::Opened existing hwdb PWM_2
+TRACE::2023-03-02.13:03:05::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-03-02.13:03:05::SCWMssOS::Checking the sw design at  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2023-03-02.13:03:05::SCWMssOS::DEBUG:  swdes dump  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system||
+
+TRACE::2023-03-02.13:03:05::SCWMssOS::Sw design exists and opened at  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2023-03-02.13:03:05::SCWMssOS::Completed writing the mss file at D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp
+TRACE::2023-03-02.13:03:05::SCWMssOS::Mss edits present, copying mssfile into export location D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2023-03-02.13:03:05::SCWMssOS::bsp generated is upto date with the mss file. Skipping bsp generation.
+TRACE::2023-03-02.13:03:05::SCWMssOS::BSP is already built. skipping the bsp build ... 
+TRACE::2023-03-02.13:03:05::SCWDomain::Building the domain as part of full build :  standalone_ps7_cortexa9_0
+TRACE::2023-03-02.13:03:05::SCWMssOS::doing bsp build ... 
+TRACE::2023-03-02.13:03:05::SCWMssOS::System Command Ran  D: & cd  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp & make 
+TRACE::2023-03-02.13:03:05::SCWMssOS::make --no-print-directory seq_libs
+
+TRACE::2023-03-02.13:03:05::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/COM_IP_v1_0/src"
+
+TRACE::2023-03-02.13:03:05::SCWMssOS::make -C ps7_cortexa9_0/libsrc/COM_IP_v1_0/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2023-03-02.13:03:05::SCWMssOS:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2023-03-02.13:03:05::SCWMssOS::artfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2023-03-02.13:03:05::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/coresightps_dcc_v1_8/src"
+
+TRACE::2023-03-02.13:03:05::SCWMssOS::make -C ps7_cortexa9_0/libsrc/coresightps_dcc_v1_8/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none
+TRACE::2023-03-02.13:03:05::SCWMssOS::-eabi-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=h
+TRACE::2023-03-02.13:03:05::SCWMssOS::ard -nostartfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2023-03-02.13:03:05::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_11/src"
+
+TRACE::2023-03-02.13:03:05::SCWMssOS::make -C ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_11/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-e
+TRACE::2023-03-02.13:03:05::SCWMssOS::abi-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=har
+TRACE::2023-03-02.13:03:05::SCWMssOS::d -nostartfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2023-03-02.13:03:05::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/ddrps_v1_2/src"
+
+TRACE::2023-03-02.13:03:05::SCWMssOS::make -C ps7_cortexa9_0/libsrc/ddrps_v1_2/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" 
+TRACE::2023-03-02.13:03:05::SCWMssOS::"ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nosta
+TRACE::2023-03-02.13:03:05::SCWMssOS::rtfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2023-03-02.13:03:05::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/devcfg_v3_7/src"
+
+TRACE::2023-03-02.13:03:05::SCWMssOS::make -C ps7_cortexa9_0/libsrc/devcfg_v3_7/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2023-03-02.13:03:05::SCWMssOS:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2023-03-02.13:03:05::SCWMssOS::artfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2023-03-02.13:03:05::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/dmaps_v2_8/src"
+
+TRACE::2023-03-02.13:03:05::SCWMssOS::make -C ps7_cortexa9_0/libsrc/dmaps_v2_8/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" 
+TRACE::2023-03-02.13:03:05::SCWMssOS::"ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nosta
+TRACE::2023-03-02.13:03:05::SCWMssOS::rtfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2023-03-02.13:03:05::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/gpiops_v3_10/src"
+
+TRACE::2023-03-02.13:03:05::SCWMssOS::make -C ps7_cortexa9_0/libsrc/gpiops_v3_10/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as
+TRACE::2023-03-02.13:03:05::SCWMssOS::" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nos
+TRACE::2023-03-02.13:03:05::SCWMssOS::tartfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2023-03-02.13:03:06::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/scugic_v5_0/src"
+
+TRACE::2023-03-02.13:03:06::SCWMssOS::make -C ps7_cortexa9_0/libsrc/scugic_v5_0/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2023-03-02.13:03:06::SCWMssOS:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2023-03-02.13:03:06::SCWMssOS::artfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2023-03-02.13:03:06::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/scutimer_v2_4/src"
+
+TRACE::2023-03-02.13:03:06::SCWMssOS::make -C ps7_cortexa9_0/libsrc/scutimer_v2_4/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-a
+TRACE::2023-03-02.13:03:06::SCWMssOS::s" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -no
+TRACE::2023-03-02.13:03:06::SCWMssOS::startfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2023-03-02.13:03:06::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/scuwdt_v2_4/src"
+
+TRACE::2023-03-02.13:03:06::SCWMssOS::make -C ps7_cortexa9_0/libsrc/scuwdt_v2_4/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2023-03-02.13:03:06::SCWMssOS:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2023-03-02.13:03:06::SCWMssOS::artfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2023-03-02.13:03:06::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/standalone_v8_0/src"
+
+TRACE::2023-03-02.13:03:06::SCWMssOS::make -C ps7_cortexa9_0/libsrc/standalone_v8_0/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi
+TRACE::2023-03-02.13:03:06::SCWMssOS::-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -
+TRACE::2023-03-02.13:03:06::SCWMssOS::nostartfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2023-03-02.13:03:06::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/uartps_v3_11/src"
+
+TRACE::2023-03-02.13:03:06::SCWMssOS::make -C ps7_cortexa9_0/libsrc/uartps_v3_11/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as
+TRACE::2023-03-02.13:03:06::SCWMssOS::" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nos
+TRACE::2023-03-02.13:03:06::SCWMssOS::tartfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2023-03-02.13:03:06::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/xadcps_v2_6/src"
+
+TRACE::2023-03-02.13:03:06::SCWMssOS::make -C ps7_cortexa9_0/libsrc/xadcps_v2_6/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2023-03-02.13:03:06::SCWMssOS:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2023-03-02.13:03:06::SCWMssOS::artfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2023-03-02.13:03:06::SCWMssOS::"Running Make libs in ps7_cortexa9_0/libsrc/COM_IP_v1_0/src"
+
+TRACE::2023-03-02.13:03:06::SCWMssOS::make -C ps7_cortexa9_0/libsrc/COM_IP_v1_0/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "A
+TRACE::2023-03-02.13:03:06::SCWMssOS::RCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostart
+TRACE::2023-03-02.13:03:06::SCWMssOS::files -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2023-03-02.13:03:06::SCWMssOS::"Compiling COM_IP..."
+
+ERROR::2023-03-02.13:03:06::SCWMssOS::Failed to build  the bsp sources for domain - standalone_ps7_cortexa9_0
+ERROR::2023-03-02.13:03:06::SCWSystem::Error in Processing the domain standalone_ps7_cortexa9_0
+TRACE::2023-03-02.13:06:21::SCWPlatform::Clearing the existing platform
+TRACE::2023-03-02.13:06:21::SCWSystem::Clearing the existing sysconfig
+TRACE::2023-03-02.13:06:21::SCWMssOS::Removing the swdes entry for  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2023-03-02.13:06:21::SCWSystem::Clearing the domains completed.
+TRACE::2023-03-02.13:06:21::SCWPlatform::Clearing the opened hw db.
+TRACE::2023-03-02.13:06:21::SCWPlatform::DSA given D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.13:06:21::SCWPlatform::DSA absoulate path D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.13:06:21::SCWPlatform:: Platform location is D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw
+TRACE::2023-03-02.13:06:21::SCWPlatform:: Platform Path D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.13:06:21::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-03-02.13:06:21::SCWPlatform::Removing the HwDB with name D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.13:06:21::SCWPlatform::Trying to open the hw design at D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.13:06:21::SCWPlatform::DSA given D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.13:06:21::SCWPlatform::DSA absoulate path D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.13:06:21::SCWPlatform::DSA directory D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw
+TRACE::2023-03-02.13:06:21::SCWPlatform:: Platform Path D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.13:06:21::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-03-02.13:06:21::SCWPlatform::Do not have an existing db opened. 
+TRACE::2023-03-02.13:06:22::SCWPlatform::Opened new HwDB with name PWM_6
+TRACE::2023-03-02.13:06:22::SCWReader::Active system found as  PWM_ex
+TRACE::2023-03-02.13:06:22::SCWReader::Handling sysconfig PWM_ex
+TRACE::2023-03-02.13:06:22::SCWDomain::checking for install qemu data   : 
+TRACE::2023-03-02.13:06:22::SCWDomain:: Using the QEMU Data from install at  : D:/Soft/Xilinx22.2/Vitis/2022.2/data/emulation/platforms/zynq/sw/a9_standalone/qemu/
+TRACE::2023-03-02.13:06:22::SCWDomain:: Using the QEMU args  from install at  : D:/Soft/Xilinx22.2/Vitis/2022.2/data/emulation/platforms/zynq/sw/a9_standalone/qemu/qemu_args.txt
+TRACE::2023-03-02.13:06:22::SCWPlatform::Trying to open the hw design at D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.13:06:22::SCWPlatform::DSA given D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.13:06:22::SCWPlatform::DSA absoulate path D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.13:06:22::SCWPlatform::DSA directory D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw
+TRACE::2023-03-02.13:06:22::SCWPlatform:: Platform Path D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.13:06:22::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-03-02.13:06:22::SCWPlatform::Trying to set the existing hwdb with name PWM_6
+TRACE::2023-03-02.13:06:22::SCWPlatform::Opened existing hwdb PWM_6
+TRACE::2023-03-02.13:06:22::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-03-02.13:06:22::SCWPlatform::Trying to open the hw design at D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.13:06:22::SCWPlatform::DSA given D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.13:06:22::SCWPlatform::DSA absoulate path D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.13:06:22::SCWPlatform::DSA directory D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw
+TRACE::2023-03-02.13:06:22::SCWPlatform:: Platform Path D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.13:06:22::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-03-02.13:06:22::SCWPlatform::Trying to set the existing hwdb with name PWM_6
+TRACE::2023-03-02.13:06:22::SCWPlatform::Opened existing hwdb PWM_6
+TRACE::2023-03-02.13:06:22::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-03-02.13:06:22::SCWPlatform::Trying to open the hw design at D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.13:06:22::SCWPlatform::DSA given D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.13:06:22::SCWPlatform::DSA absoulate path D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.13:06:22::SCWPlatform::DSA directory D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw
+TRACE::2023-03-02.13:06:22::SCWPlatform:: Platform Path D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.13:06:22::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-03-02.13:06:22::SCWPlatform::Trying to set the existing hwdb with name PWM_6
+TRACE::2023-03-02.13:06:22::SCWPlatform::Opened existing hwdb PWM_6
+TRACE::2023-03-02.13:06:22::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-03-02.13:06:22::SCWPlatform::Trying to open the hw design at D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.13:06:22::SCWPlatform::DSA given D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.13:06:22::SCWPlatform::DSA absoulate path D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.13:06:22::SCWPlatform::DSA directory D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw
+TRACE::2023-03-02.13:06:22::SCWPlatform:: Platform Path D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.13:06:22::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-03-02.13:06:22::SCWPlatform::Trying to set the existing hwdb with name PWM_6
+TRACE::2023-03-02.13:06:22::SCWPlatform::Opened existing hwdb PWM_6
+TRACE::2023-03-02.13:06:22::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-03-02.13:06:22::SCWMssOS::Checking the sw design at  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2023-03-02.13:06:22::SCWMssOS::DEBUG:  swdes dump  
+TRACE::2023-03-02.13:06:22::SCWMssOS::No sw design opened at  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2023-03-02.13:06:22::SCWMssOS::mss exists loading the mss file  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2023-03-02.13:06:22::SCWMssOS::Opened the sw design from mss  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2023-03-02.13:06:22::SCWMssOS::Adding the swdes entry D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss with des name system
+TRACE::2023-03-02.13:06:22::SCWMssOS::updating the scw layer about changes
+TRACE::2023-03-02.13:06:22::SCWMssOS::Opened the sw design.  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2023-03-02.13:06:22::SCWMssOS::Saving the mss changes D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2023-03-02.13:06:22::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2023-03-02.13:06:22::SCWMssOS::Completed writemss as part of save.
+TRACE::2023-03-02.13:06:22::SCWMssOS::Commit changes completed.
+TRACE::2023-03-02.13:06:22::SCWReader::Adding prebuilt librarypaths as   
+TRACE::2023-03-02.13:06:22::SCWReader::Adding prebuilt incpaths  as   
+TRACE::2023-03-02.13:06:22::SCWPlatform::Trying to open the hw design at D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.13:06:22::SCWPlatform::DSA given D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.13:06:22::SCWPlatform::DSA absoulate path D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.13:06:22::SCWPlatform::DSA directory D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw
+TRACE::2023-03-02.13:06:22::SCWPlatform:: Platform Path D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.13:06:22::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-03-02.13:06:22::SCWPlatform::Trying to set the existing hwdb with name PWM_6
+TRACE::2023-03-02.13:06:22::SCWPlatform::Opened existing hwdb PWM_6
+TRACE::2023-03-02.13:06:22::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-03-02.13:06:22::SCWMssOS::Checking the sw design at  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2023-03-02.13:06:22::SCWMssOS::DEBUG:  swdes dump  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system||
+
+TRACE::2023-03-02.13:06:22::SCWMssOS::Sw design exists and opened at  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2023-03-02.13:06:22::SCWReader::No isolation master present  
+TRACE::2023-03-02.13:06:23::SCWPlatform::Trying to open the hw design at D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.13:06:23::SCWPlatform::DSA given D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.13:06:23::SCWPlatform::DSA absoulate path D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.13:06:23::SCWPlatform::DSA directory D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw
+TRACE::2023-03-02.13:06:23::SCWPlatform:: Platform Path D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.13:06:23::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-03-02.13:06:23::SCWPlatform::Trying to set the existing hwdb with name PWM_6
+TRACE::2023-03-02.13:06:23::SCWPlatform::Opened existing hwdb PWM_6
+TRACE::2023-03-02.13:06:23::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-03-02.13:06:23::SCWMssOS::Checking the sw design at  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2023-03-02.13:06:23::SCWMssOS::DEBUG:  swdes dump  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system||
+
+TRACE::2023-03-02.13:06:23::SCWMssOS::Sw design exists and opened at  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2023-03-02.13:06:24::SCWMssOS::In reload Mss file.
+TRACE::2023-03-02.13:06:24::SCWPlatform::Trying to open the hw design at D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.13:06:24::SCWPlatform::DSA given D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.13:06:24::SCWPlatform::DSA absoulate path D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.13:06:24::SCWPlatform::DSA directory D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw
+TRACE::2023-03-02.13:06:24::SCWPlatform:: Platform Path D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.13:06:24::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-03-02.13:06:24::SCWPlatform::Trying to set the existing hwdb with name PWM_6
+TRACE::2023-03-02.13:06:24::SCWPlatform::Opened existing hwdb PWM_6
+TRACE::2023-03-02.13:06:24::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-03-02.13:06:24::SCWMssOS::Checking the sw design at  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2023-03-02.13:06:24::SCWMssOS::DEBUG:  swdes dump  
+TRACE::2023-03-02.13:06:24::SCWMssOS::No sw design opened at  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2023-03-02.13:06:24::SCWMssOS::mss exists loading the mss file  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2023-03-02.13:06:24::SCWMssOS::Opened the sw design from mss  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2023-03-02.13:06:24::SCWMssOS::Adding the swdes entry D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss with des name system
+TRACE::2023-03-02.13:06:24::SCWMssOS::updating the scw layer about changes
+TRACE::2023-03-02.13:06:24::SCWMssOS::Opened the sw design.  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2023-03-02.13:06:24::SCWMssOS::Saving the mss changes D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2023-03-02.13:06:24::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2023-03-02.13:06:24::SCWMssOS::Completed writemss as part of save.
+TRACE::2023-03-02.13:06:24::SCWMssOS::Commit changes completed.
+TRACE::2023-03-02.13:06:24::SCWPlatform::Trying to open the hw design at D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.13:06:24::SCWPlatform::DSA given D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.13:06:24::SCWPlatform::DSA absoulate path D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.13:06:24::SCWPlatform::DSA directory D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw
+TRACE::2023-03-02.13:06:24::SCWPlatform:: Platform Path D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.13:06:24::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-03-02.13:06:24::SCWPlatform::Trying to set the existing hwdb with name PWM_6
+TRACE::2023-03-02.13:06:24::SCWPlatform::Opened existing hwdb PWM_6
+TRACE::2023-03-02.13:06:24::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-03-02.13:06:24::SCWMssOS::Checking the sw design at  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2023-03-02.13:06:24::SCWMssOS::DEBUG:  swdes dump  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system||
+
+TRACE::2023-03-02.13:06:24::SCWMssOS::Sw design exists and opened at  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2023-03-02.13:06:24::SCWMssOS::Removing the swdes entry for  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2023-03-02.13:06:35::SCWPlatform::Trying to open the hw design at D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.13:06:35::SCWPlatform::DSA given D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.13:06:35::SCWPlatform::DSA absoulate path D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.13:06:35::SCWPlatform::DSA directory D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw
+TRACE::2023-03-02.13:06:35::SCWPlatform:: Platform Path D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.13:06:35::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-03-02.13:06:35::SCWPlatform::Trying to set the existing hwdb with name PWM_6
+TRACE::2023-03-02.13:06:35::SCWPlatform::Opened existing hwdb PWM_6
+TRACE::2023-03-02.13:06:35::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-03-02.13:06:35::SCWMssOS::Checking the sw design at  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2023-03-02.13:06:35::SCWMssOS::DEBUG:  swdes dump  
+TRACE::2023-03-02.13:06:35::SCWMssOS::No sw design opened at  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2023-03-02.13:06:35::SCWMssOS::mss exists loading the mss file  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2023-03-02.13:06:35::SCWMssOS::Opened the sw design from mss  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2023-03-02.13:06:35::SCWMssOS::Adding the swdes entry D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss with des name system
+TRACE::2023-03-02.13:06:35::SCWMssOS::updating the scw layer about changes
+TRACE::2023-03-02.13:06:35::SCWMssOS::Opened the sw design.  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2023-03-02.13:06:35::SCWMssOS::Completed writing the mss file at D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp
+TRACE::2023-03-02.13:06:35::SCWMssOS::Forcing BSP Sources regeneration.
+LOG::2023-03-02.13:07:16::SCWPlatform::Started generating the artifacts platform PWM_ex
+TRACE::2023-03-02.13:07:16::SCWPlatform::Sanity checking of platform is completed
+LOG::2023-03-02.13:07:16::SCWPlatform::Started generating the artifacts for system configuration PWM_ex
+LOG::2023-03-02.13:07:16::SCWSystem::Checking the domain standalone_ps7_cortexa9_0
+LOG::2023-03-02.13:07:16::SCWSystem::Not a boot domain 
+LOG::2023-03-02.13:07:16::SCWSystem::Started Processing the domain standalone_ps7_cortexa9_0
+TRACE::2023-03-02.13:07:16::SCWDomain::Generating domain artifcats
+TRACE::2023-03-02.13:07:16::SCWMssOS::Generating standalone artifcats
+TRACE::2023-03-02.13:07:16::SCWMssOS::Copying the qemu file from  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/resources/PWM_ex/standalone_ps7_cortexa9_0/qemu_args.txt To D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/export/PWM_ex/sw/PWM_ex/qemu/
+TRACE::2023-03-02.13:07:16::SCWMssOS::Copying the qemu file from  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/resources/PWM_ex/standalone_ps7_cortexa9_0/qemu_args.txt To D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/export/PWM_ex/sw/PWM_ex/standalone_ps7_cortexa9_0/qemu/
+TRACE::2023-03-02.13:07:16::SCWMssOS:: Copying the user libraries. 
+TRACE::2023-03-02.13:07:16::SCWPlatform::Trying to open the hw design at D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.13:07:16::SCWPlatform::DSA given D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.13:07:16::SCWPlatform::DSA absoulate path D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.13:07:16::SCWPlatform::DSA directory D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw
+TRACE::2023-03-02.13:07:16::SCWPlatform:: Platform Path D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.13:07:16::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-03-02.13:07:16::SCWPlatform::Trying to set the existing hwdb with name PWM_6
+TRACE::2023-03-02.13:07:16::SCWPlatform::Opened existing hwdb PWM_6
+TRACE::2023-03-02.13:07:16::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-03-02.13:07:16::SCWMssOS::Checking the sw design at  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2023-03-02.13:07:16::SCWMssOS::DEBUG:  swdes dump  
+TRACE::2023-03-02.13:07:16::SCWMssOS::No sw design opened at  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2023-03-02.13:07:16::SCWMssOS::mss exists loading the mss file  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2023-03-02.13:07:16::SCWMssOS::Opened the sw design from mss  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2023-03-02.13:07:16::SCWMssOS::Adding the swdes entry D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss with des name system
+TRACE::2023-03-02.13:07:16::SCWMssOS::updating the scw layer about changes
+TRACE::2023-03-02.13:07:16::SCWMssOS::Opened the sw design.  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2023-03-02.13:07:16::SCWMssOS::Completed writing the mss file at D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp
+TRACE::2023-03-02.13:07:16::SCWMssOS::Mss edits present, copying mssfile into export location D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2023-03-02.13:07:16::SCWMssOS::bsp generated is upto date with the mss file. Skipping bsp generation.
+TRACE::2023-03-02.13:07:16::SCWMssOS::BSP is already built. skipping the bsp build ... 
+TRACE::2023-03-02.13:07:16::SCWDomain::Building the domain as part of full build :  standalone_ps7_cortexa9_0
+TRACE::2023-03-02.13:07:16::SCWMssOS::doing bsp build ... 
+TRACE::2023-03-02.13:07:16::SCWMssOS::System Command Ran  D: & cd  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp & make 
+TRACE::2023-03-02.13:07:16::SCWMssOS::make --no-print-directory seq_libs
+
+TRACE::2023-03-02.13:07:17::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/COM_IP_v1_0/src"
+
+TRACE::2023-03-02.13:07:17::SCWMssOS::make -C ps7_cortexa9_0/libsrc/COM_IP_v1_0/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2023-03-02.13:07:17::SCWMssOS:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2023-03-02.13:07:17::SCWMssOS::artfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2023-03-02.13:07:17::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/coresightps_dcc_v1_8/src"
+
+TRACE::2023-03-02.13:07:17::SCWMssOS::make -C ps7_cortexa9_0/libsrc/coresightps_dcc_v1_8/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none
+TRACE::2023-03-02.13:07:17::SCWMssOS::-eabi-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=h
+TRACE::2023-03-02.13:07:17::SCWMssOS::ard -nostartfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2023-03-02.13:07:17::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_11/src"
+
+TRACE::2023-03-02.13:07:17::SCWMssOS::make -C ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_11/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-e
+TRACE::2023-03-02.13:07:17::SCWMssOS::abi-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=har
+TRACE::2023-03-02.13:07:17::SCWMssOS::d -nostartfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2023-03-02.13:07:17::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/ddrps_v1_2/src"
+
+TRACE::2023-03-02.13:07:17::SCWMssOS::make -C ps7_cortexa9_0/libsrc/ddrps_v1_2/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" 
+TRACE::2023-03-02.13:07:17::SCWMssOS::"ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nosta
+TRACE::2023-03-02.13:07:17::SCWMssOS::rtfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2023-03-02.13:07:17::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/devcfg_v3_7/src"
+
+TRACE::2023-03-02.13:07:17::SCWMssOS::make -C ps7_cortexa9_0/libsrc/devcfg_v3_7/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2023-03-02.13:07:17::SCWMssOS:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2023-03-02.13:07:17::SCWMssOS::artfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2023-03-02.13:07:17::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/dmaps_v2_8/src"
+
+TRACE::2023-03-02.13:07:17::SCWMssOS::make -C ps7_cortexa9_0/libsrc/dmaps_v2_8/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" 
+TRACE::2023-03-02.13:07:17::SCWMssOS::"ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nosta
+TRACE::2023-03-02.13:07:17::SCWMssOS::rtfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2023-03-02.13:07:17::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/gpiops_v3_10/src"
+
+TRACE::2023-03-02.13:07:17::SCWMssOS::make -C ps7_cortexa9_0/libsrc/gpiops_v3_10/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as
+TRACE::2023-03-02.13:07:17::SCWMssOS::" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nos
+TRACE::2023-03-02.13:07:17::SCWMssOS::tartfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2023-03-02.13:07:17::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/scugic_v5_0/src"
+
+TRACE::2023-03-02.13:07:17::SCWMssOS::make -C ps7_cortexa9_0/libsrc/scugic_v5_0/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2023-03-02.13:07:17::SCWMssOS:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2023-03-02.13:07:17::SCWMssOS::artfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2023-03-02.13:07:17::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/scutimer_v2_4/src"
+
+TRACE::2023-03-02.13:07:17::SCWMssOS::make -C ps7_cortexa9_0/libsrc/scutimer_v2_4/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-a
+TRACE::2023-03-02.13:07:17::SCWMssOS::s" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -no
+TRACE::2023-03-02.13:07:17::SCWMssOS::startfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2023-03-02.13:07:17::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/scuwdt_v2_4/src"
+
+TRACE::2023-03-02.13:07:17::SCWMssOS::make -C ps7_cortexa9_0/libsrc/scuwdt_v2_4/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2023-03-02.13:07:17::SCWMssOS:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2023-03-02.13:07:17::SCWMssOS::artfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2023-03-02.13:07:17::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/standalone_v8_0/src"
+
+TRACE::2023-03-02.13:07:17::SCWMssOS::make -C ps7_cortexa9_0/libsrc/standalone_v8_0/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi
+TRACE::2023-03-02.13:07:17::SCWMssOS::-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -
+TRACE::2023-03-02.13:07:17::SCWMssOS::nostartfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2023-03-02.13:07:17::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/uartps_v3_11/src"
+
+TRACE::2023-03-02.13:07:17::SCWMssOS::make -C ps7_cortexa9_0/libsrc/uartps_v3_11/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as
+TRACE::2023-03-02.13:07:17::SCWMssOS::" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nos
+TRACE::2023-03-02.13:07:17::SCWMssOS::tartfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2023-03-02.13:07:17::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/xadcps_v2_6/src"
+
+TRACE::2023-03-02.13:07:17::SCWMssOS::make -C ps7_cortexa9_0/libsrc/xadcps_v2_6/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2023-03-02.13:07:17::SCWMssOS:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2023-03-02.13:07:17::SCWMssOS::artfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2023-03-02.13:07:17::SCWMssOS::"Running Make libs in ps7_cortexa9_0/libsrc/COM_IP_v1_0/src"
+
+TRACE::2023-03-02.13:07:17::SCWMssOS::make -C ps7_cortexa9_0/libsrc/COM_IP_v1_0/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "A
+TRACE::2023-03-02.13:07:17::SCWMssOS::RCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostart
+TRACE::2023-03-02.13:07:17::SCWMssOS::files -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2023-03-02.13:07:17::SCWMssOS::"Compiling COM_IP..."
+
+ERROR::2023-03-02.13:07:17::SCWMssOS::Failed to build  the bsp sources for domain - standalone_ps7_cortexa9_0
+ERROR::2023-03-02.13:07:17::SCWSystem::Error in Processing the domain standalone_ps7_cortexa9_0
+TRACE::2023-03-02.13:08:08::SCWMssOS::cleaning the bsp 
+TRACE::2023-03-02.13:08:08::SCWMssOS::System Command Ran  D: & cd  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp & make clean 
+TRACE::2023-03-02.13:08:08::SCWMssOS::make -C ps7_cortexa9_0/libsrc/COM_IP_v1_0/src -s clean 
+
+ERROR::2023-03-02.13:08:08::SCWSystem::Error in Processing the domain standalone_ps7_cortexa9_0
+TRACE::2023-03-02.13:08:20::SCWMssOS::Saving the mss changes D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2023-03-02.13:08:20::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2023-03-02.13:08:20::SCWMssOS::Completed writemss as part of save.
+TRACE::2023-03-02.13:08:20::SCWMssOS::Commit changes completed.
+TRACE::2023-03-02.13:08:20::SCWPlatform::Trying to open the hw design at D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.13:08:20::SCWPlatform::DSA given D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.13:08:20::SCWPlatform::DSA absoulate path D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.13:08:20::SCWPlatform::DSA directory D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw
+TRACE::2023-03-02.13:08:20::SCWPlatform:: Platform Path D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.13:08:20::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-03-02.13:08:20::SCWPlatform::Trying to set the existing hwdb with name PWM_6
+TRACE::2023-03-02.13:08:20::SCWPlatform::Opened existing hwdb PWM_6
+TRACE::2023-03-02.13:08:20::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-03-02.13:08:20::SCWMssOS::Checking the sw design at  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2023-03-02.13:08:20::SCWMssOS::DEBUG:  swdes dump  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system||
+
+TRACE::2023-03-02.13:08:20::SCWMssOS::Sw design exists and opened at  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2023-03-02.13:08:20::SCWWriter::formatted JSON is {
+	"platformName":	"PWM_ex",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"PWM_ex",
+	"platHandOff":	"<platformDir>/resources/PWM_ex.xsa",
+	"platIntHandOff":	"<platformDir>/hw/PWM_ex.xsa",
+	"deviceType":	"zynq",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"true",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"PWM_ex",
+	"systems":	[{
+			"systemName":	"PWM_ex",
+			"systemDesc":	"PWM_ex",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"PWM_ex",
+			"sysActiveDom":	"standalone_ps7_cortexa9_0",
+			"sysDefaultDom":	"standalone_ps7_cortexa9_0",
+			"domains":	[{
+					"domainName":	"standalone_ps7_cortexa9_0",
+					"domainDispName":	"standalone_ps7_cortexa9_0",
+					"domainDesc":	"standalone_ps7_cortexa9_0",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"qemuArgs":	"<platformDir>/resources/PWM_ex/standalone_ps7_cortexa9_0/qemu_args.txt",
+					"qemuData":	"<platformDir>/resources/PWM_ex/standalone_ps7_cortexa9_0/qemu",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"8.0",
+					"mssFile":	"",
+					"md5Digest":	"a01c6602601945bcfa76bcb90ce56ec0",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+TRACE::2023-03-02.13:08:20::SCWPlatform::Clearing the existing platform
+TRACE::2023-03-02.13:08:20::SCWSystem::Clearing the existing sysconfig
+TRACE::2023-03-02.13:08:20::SCWMssOS::Removing the swdes entry for  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2023-03-02.13:08:20::SCWSystem::Clearing the domains completed.
+TRACE::2023-03-02.13:08:20::SCWPlatform::Clearing the opened hw db.
+TRACE::2023-03-02.13:08:20::SCWPlatform::DSA given D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.13:08:20::SCWPlatform::DSA absoulate path D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.13:08:20::SCWPlatform:: Platform location is D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw
+TRACE::2023-03-02.13:08:20::SCWPlatform:: Platform Path D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.13:08:20::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-03-02.13:08:20::SCWPlatform::Removing the HwDB with name D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.13:08:20::SCWPlatform::Trying to open the hw design at D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.13:08:20::SCWPlatform::DSA given D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.13:08:20::SCWPlatform::DSA absoulate path D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.13:08:20::SCWPlatform::DSA directory D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw
+TRACE::2023-03-02.13:08:20::SCWPlatform:: Platform Path D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.13:08:20::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-03-02.13:08:20::SCWPlatform::Do not have an existing db opened. 
+TRACE::2023-03-02.13:08:21::SCWPlatform::Opened new HwDB with name PWM_8
+TRACE::2023-03-02.13:08:21::SCWReader::Active system found as  PWM_ex
+TRACE::2023-03-02.13:08:21::SCWReader::Handling sysconfig PWM_ex
+TRACE::2023-03-02.13:08:21::SCWDomain::checking for install qemu data   : 
+TRACE::2023-03-02.13:08:21::SCWDomain:: Using the QEMU Data from install at  : D:/Soft/Xilinx22.2/Vitis/2022.2/data/emulation/platforms/zynq/sw/a9_standalone/qemu/
+TRACE::2023-03-02.13:08:21::SCWDomain:: Using the QEMU args  from install at  : D:/Soft/Xilinx22.2/Vitis/2022.2/data/emulation/platforms/zynq/sw/a9_standalone/qemu/qemu_args.txt
+TRACE::2023-03-02.13:08:21::SCWPlatform::Trying to open the hw design at D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.13:08:21::SCWPlatform::DSA given D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.13:08:21::SCWPlatform::DSA absoulate path D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.13:08:21::SCWPlatform::DSA directory D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw
+TRACE::2023-03-02.13:08:21::SCWPlatform:: Platform Path D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.13:08:21::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-03-02.13:08:21::SCWPlatform::Trying to set the existing hwdb with name PWM_8
+TRACE::2023-03-02.13:08:21::SCWPlatform::Opened existing hwdb PWM_8
+TRACE::2023-03-02.13:08:21::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-03-02.13:08:21::SCWPlatform::Trying to open the hw design at D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.13:08:21::SCWPlatform::DSA given D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.13:08:21::SCWPlatform::DSA absoulate path D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.13:08:21::SCWPlatform::DSA directory D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw
+TRACE::2023-03-02.13:08:21::SCWPlatform:: Platform Path D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.13:08:21::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-03-02.13:08:21::SCWPlatform::Trying to set the existing hwdb with name PWM_8
+TRACE::2023-03-02.13:08:21::SCWPlatform::Opened existing hwdb PWM_8
+TRACE::2023-03-02.13:08:21::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-03-02.13:08:21::SCWPlatform::Trying to open the hw design at D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.13:08:21::SCWPlatform::DSA given D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.13:08:21::SCWPlatform::DSA absoulate path D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.13:08:21::SCWPlatform::DSA directory D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw
+TRACE::2023-03-02.13:08:21::SCWPlatform:: Platform Path D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.13:08:21::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-03-02.13:08:21::SCWPlatform::Trying to set the existing hwdb with name PWM_8
+TRACE::2023-03-02.13:08:21::SCWPlatform::Opened existing hwdb PWM_8
+TRACE::2023-03-02.13:08:21::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-03-02.13:08:21::SCWPlatform::Trying to open the hw design at D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.13:08:21::SCWPlatform::DSA given D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.13:08:21::SCWPlatform::DSA absoulate path D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.13:08:21::SCWPlatform::DSA directory D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw
+TRACE::2023-03-02.13:08:21::SCWPlatform:: Platform Path D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.13:08:21::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-03-02.13:08:21::SCWPlatform::Trying to set the existing hwdb with name PWM_8
+TRACE::2023-03-02.13:08:21::SCWPlatform::Opened existing hwdb PWM_8
+TRACE::2023-03-02.13:08:21::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-03-02.13:08:21::SCWMssOS::Checking the sw design at  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2023-03-02.13:08:21::SCWMssOS::DEBUG:  swdes dump  
+TRACE::2023-03-02.13:08:21::SCWMssOS::No sw design opened at  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2023-03-02.13:08:21::SCWMssOS::mss exists loading the mss file  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2023-03-02.13:08:21::SCWMssOS::Opened the sw design from mss  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2023-03-02.13:08:21::SCWMssOS::Adding the swdes entry D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss with des name system
+TRACE::2023-03-02.13:08:21::SCWMssOS::updating the scw layer about changes
+TRACE::2023-03-02.13:08:21::SCWMssOS::Opened the sw design.  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2023-03-02.13:08:21::SCWMssOS::Saving the mss changes D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2023-03-02.13:08:21::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2023-03-02.13:08:21::SCWMssOS::Completed writemss as part of save.
+TRACE::2023-03-02.13:08:21::SCWMssOS::Commit changes completed.
+TRACE::2023-03-02.13:08:21::SCWReader::Adding prebuilt librarypaths as   
+TRACE::2023-03-02.13:08:21::SCWReader::Adding prebuilt incpaths  as   
+TRACE::2023-03-02.13:08:21::SCWPlatform::Trying to open the hw design at D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.13:08:21::SCWPlatform::DSA given D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.13:08:21::SCWPlatform::DSA absoulate path D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.13:08:21::SCWPlatform::DSA directory D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw
+TRACE::2023-03-02.13:08:21::SCWPlatform:: Platform Path D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.13:08:21::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2023-03-02.13:08:21::SCWPlatform::Trying to set the existing hwdb with name PWM_8
+TRACE::2023-03-02.13:08:21::SCWPlatform::Opened existing hwdb PWM_8
+TRACE::2023-03-02.13:08:21::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2023-03-02.13:08:21::SCWMssOS::Checking the sw design at  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2023-03-02.13:08:21::SCWMssOS::DEBUG:  swdes dump  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss|system||
+
+TRACE::2023-03-02.13:08:21::SCWMssOS::Sw design exists and opened at  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2023-03-02.13:08:21::SCWReader::No isolation master present  
+TRACE::2023-03-02.13:09:41::SCWPlatform::Clearing the existing platform
+TRACE::2023-03-02.13:09:41::SCWSystem::Clearing the existing sysconfig
+TRACE::2023-03-02.13:09:41::SCWMssOS::Removing the swdes entry for  D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/system.mss
+TRACE::2023-03-02.13:09:41::SCWSystem::Clearing the domains completed.
+TRACE::2023-03-02.13:09:41::SCWPlatform::Clearing the opened hw db.
+TRACE::2023-03-02.13:09:41::SCWPlatform::DSA given D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.13:09:41::SCWPlatform::DSA absoulate path D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.13:09:41::SCWPlatform:: Platform location is D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw
+TRACE::2023-03-02.13:09:41::SCWPlatform:: Platform Path D:/Project/Wireless_Charge_PWM/PWM/Vitis/PWM_ex/hw/PWM_ex.xsa
+TRACE::2023-03-02.13:09:41::SCWPlatform:: Unique name xilinx:::0.0
