@@ -1,7 +1,7 @@
 {
   "design": {
     "design_info": {
-      "boundary_crc": "0x655ADD28AEBB4D",
+      "boundary_crc": "0xEAA7AF1F1A80F7BA",
       "design_src": "SBD",
       "device": "xc7z020clg400-2",
       "name": "bd_f60c",
@@ -43,12 +43,12 @@
       },
       "probe1": {
         "direction": "I",
-        "left": "3",
+        "left": "15",
         "right": "0"
       },
       "probe2": {
         "direction": "I",
-        "left": "10",
+        "left": "15",
         "right": "0"
       },
       "probe3": {
@@ -58,12 +58,12 @@
       },
       "probe4": {
         "direction": "I",
-        "left": "10",
+        "left": "15",
         "right": "0"
       },
       "probe5": {
         "direction": "I",
-        "left": "10",
+        "left": "15",
         "right": "0"
       }
     },
@@ -118,7 +118,7 @@
             "value": "0"
           },
           "C_PROBE1_WIDTH": {
-            "value": "4"
+            "value": "16"
           },
           "C_PROBE2_MU_CNT": {
             "value": "1"
@@ -127,7 +127,7 @@
             "value": "0"
           },
           "C_PROBE2_WIDTH": {
-            "value": "11"
+            "value": "16"
           },
           "C_PROBE3_MU_CNT": {
             "value": "1"
@@ -145,7 +145,7 @@
             "value": "0"
           },
           "C_PROBE4_WIDTH": {
-            "value": "11"
+            "value": "16"
           },
           "C_PROBE5_MU_CNT": {
             "value": "1"
@@ -154,7 +154,7 @@
             "value": "0"
           },
           "C_PROBE5_WIDTH": {
-            "value": "11"
+            "value": "16"
           },
           "C_TIME_TAG_WIDTH": {
             "value": "32"

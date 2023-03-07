@@ -1,7 +1,7 @@
 //Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.
 //--------------------------------------------------------------------------------
 //Tool Version: Vivado v.2018.3 (win64) Build 2405991 Thu Dec  6 23:38:27 MST 2018
-//Date        : Thu Mar  2 21:08:37 2023
+//Date        : Tue Mar  7 10:01:21 2023
 //Host        : BHM running 64-bit major release  (build 9200)
 //Command     : generate_target design_1.bd
 //Design      : design_1
@@ -9,7 +9,7 @@
 //--------------------------------------------------------------------------------
 `timescale 1 ps / 1 ps
 
-(* CORE_GENERATION_INFO = "design_1,IP_Integrator,{x_ipVendor=xilinx.com,x_ipLibrary=BlockDiagram,x_ipName=design_1,x_ipVersion=1.00.a,x_ipLanguage=VERILOG,numBlks=10,numReposBlks=8,numNonXlnxBlks=0,numHierBlks=2,maxHierDepth=0,numSysgenBlks=0,numHlsBlks=0,numHdlrefBlks=2,numPkgbdBlks=0,bdsource=USER,da_axi4_cnt=1,da_clkrst_cnt=3,da_ps7_cnt=1,synth_mode=OOC_per_IP}" *) (* HW_HANDOFF = "design_1.hwdef" *) 
+(* CORE_GENERATION_INFO = "design_1,IP_Integrator,{x_ipVendor=xilinx.com,x_ipLibrary=BlockDiagram,x_ipName=design_1,x_ipVersion=1.00.a,x_ipLanguage=VERILOG,numBlks=10,numReposBlks=8,numNonXlnxBlks=0,numHierBlks=2,maxHierDepth=0,numSysgenBlks=0,numHlsBlks=0,numHdlrefBlks=2,numPkgbdBlks=0,bdsource=USER,da_axi4_cnt=1,da_board_cnt=1,da_clkrst_cnt=4,da_ps7_cnt=1,synth_mode=OOC_per_IP}" *) (* HW_HANDOFF = "design_1.hwdef" *) 
 module design_1
    (DDR_addr,
     DDR_ba,
@@ -64,11 +64,11 @@ module design_1
   input RST;
   output RST_LED;
 
-  (* DEBUG = "true" *) (* MARK_DEBUG *) wire [3:0]AXI_PWM_0_delay;
-  (* DEBUG = "true" *) (* MARK_DEBUG *) wire [10:0]AXI_PWM_0_period;
+  (* DEBUG = "true" *) (* MARK_DEBUG *) wire [15:0]AXI_PWM_0_delay;
+  (* DEBUG = "true" *) (* MARK_DEBUG *) wire [15:0]AXI_PWM_0_period;
   wire EN_K_1;
-  wire [10:0]PWM_module_0_CNT_DBG;
-  wire [10:0]PWM_module_0_PULSE_W_DBG;
+  wire [15:0]PWM_module_0_CNT_DBG;
+  wire [15:0]PWM_module_0_PULSE_W_DBG;
   (* DEBUG = "true" *) (* MARK_DEBUG *) wire [3:0]PWM_module_0_PWM;
   wire PWM_module_0_en_led;
   wire RST_1;
@@ -159,7 +159,7 @@ module design_1
   assign PWM[3:0] = PWM_module_0_PWM;
   assign RST_1 = RST;
   assign RST_LED = RST_1;
-  design_1_AXI_PWM_0_0 AXI_PWM_0
+  design_1_AXI_PWM_0_2 AXI_PWM_0
        (.delay(AXI_PWM_0_delay),
         .period(AXI_PWM_0_period),
         .s00_axi_aclk(processing_system7_0_FCLK_CLK0),

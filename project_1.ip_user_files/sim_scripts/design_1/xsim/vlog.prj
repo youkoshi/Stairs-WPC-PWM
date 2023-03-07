@@ -1,7 +1,4 @@
 verilog xil_defaultlib --include "../../../../project_1.srcs/sources_1/bd/design_1/ipshared/ec67/hdl" --include "../../../../project_1.srcs/sources_1/bd/design_1/ipshared/70cf/hdl" --include "../../../../project_1.srcs/sources_1/bd/design_1/ip/design_1_processing_system7_0_0" --include "../../../../project_1.srcs/sources_1/bd/design_1/ipshared/1b7e/hdl/verilog" --include "../../../../project_1.srcs/sources_1/bd/design_1/ipshared/122e/hdl/verilog" --include "../../../../project_1.srcs/sources_1/bd/design_1/ipshared/7d3c/hdl/verilog" --include "../../../../project_1.srcs/sources_1/bd/design_1/ipshared/c45e/hdl/verilog" \
-"../../../bd/design_1/ipshared/e003/hdl/AXI_PWM_v1_0_S00_AXI.v" \
-"../../../bd/design_1/ipshared/e003/hdl/AXI_PWM_v1_0.v" \
-"../../../bd/design_1/ip/design_1_AXI_PWM_0_0/sim/design_1_AXI_PWM_0_0.v" \
 "../../../bd/design_1/ip/design_1_processing_system7_0_0/sim/design_1_processing_system7_0_0.v" \
 "../../../bd/design_1/ip/design_1_PWM_module_0_0/sim/design_1_PWM_module_0_0.v" \
 "../../../bd/design_1/ip/design_1_key_debounce_0_0/sim/design_1_key_debounce_0_0.v" \
@@ -13,6 +10,9 @@ verilog xil_defaultlib --include "../../../../project_1.srcs/sources_1/bd/design
 "../../../bd/design_1/ip/design_1_system_ila_1_0/bd_0/sim/bd_365d.v" \
 "../../../bd/design_1/ip/design_1_system_ila_1_0/bd_0/ip/ip_0/sim/bd_365d_ila_lib_0.v" \
 "../../../bd/design_1/ip/design_1_system_ila_1_0/sim/design_1_system_ila_1_0.v" \
+"../../../bd/design_1/ipshared/8b1c/hdl/AXI_PWM_v1_0_S00_AXI.v" \
+"../../../bd/design_1/ipshared/8b1c/hdl/AXI_PWM_v1_0.v" \
+"../../../bd/design_1/ip/design_1_AXI_PWM_0_2/sim/design_1_AXI_PWM_0_2.v" \
 "../../../bd/design_1/ip/design_1_auto_pc_0/sim/design_1_auto_pc_0.v" \
 
 verilog xil_defaultlib "glbl.v"

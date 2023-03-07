@@ -16,19 +16,19 @@ module bd_f60c_wrapper
     probe5);
   input clk;
   input [3:0]probe0;
-  input [3:0]probe1;
-  input [10:0]probe2;
+  input [15:0]probe1;
+  input [15:0]probe2;
   input [0:0]probe3;
-  input [10:0]probe4;
-  input [10:0]probe5;
+  input [15:0]probe4;
+  input [15:0]probe5;
 
   wire clk;
   wire [3:0]probe0;
-  wire [3:0]probe1;
-  wire [10:0]probe2;
+  wire [15:0]probe1;
+  wire [15:0]probe2;
   wire [0:0]probe3;
-  wire [10:0]probe4;
-  wire [10:0]probe5;
+  wire [15:0]probe4;
+  wire [15:0]probe5;
 
   bd_f60c bd_f60c_i
        (.clk(clk),

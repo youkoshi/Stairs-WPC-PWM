@@ -25,8 +25,8 @@
 
 
 module PWM_module #(
-    parameter PERIOD_W  =   11,     // range = [400:2000] ~ 200 MHz: [100 KHz : 500 KHz]
-    parameter DELAY_W   =   4      // range = [1:10]
+    parameter PERIOD_W  =   16,     // range = [200:40000] ~ 200 MHz: [5 KHz : 1 MHz]
+    parameter DELAY_W   =   16      // range = [1:Period/2]
 )
 (
     input sys_clk,
@@ -81,22 +81,22 @@ module PWM_module #(
     end
     assign en_led = en;
 
-
+    // Pulse Width
+    assign pulse_width = (period >> 1) - delay;
+    
     // Counter 
     always @(posedge sys_clk) begin
-        if((sys_rst_n == 1'b0) || (en == 1'b0) || (cnt == (period-1)))begin
+        if((sys_rst_n == 1'b0) || (en == 1'b0) || (cnt == (period-1))||(pulse_width <= 0))begin
             cnt <= 'b0;
         end else  begin
             cnt <= cnt+1;
         end
     end 
 
-    // Pulse Width
-    assign pulse_width = (period >> 1) - delay;
 
     // PWM 0
     always @(posedge sys_clk) begin
-        if(sys_rst_n == 1'b0 || en == 1'b0) begin
+        if((sys_rst_n == 1'b0) || (en == 1'b0) || (pulse_width <= 0)) begin
             pwm_pos <= 0;
         end else if (cnt == 0) begin
             pwm_pos <= 1'b1;
@@ -107,7 +107,7 @@ module PWM_module #(
 
     // PWM 1
     always @(posedge sys_clk) begin
-        if(sys_rst_n == 1'b0 || en == 1'b0) begin
+        if((sys_rst_n == 1'b0) || (en == 1'b0) || (pulse_width <= 0)) begin
             pwm_neg <= 0;
         end else if (cnt == (period >> 1)) begin
             pwm_neg <= 1'b1;

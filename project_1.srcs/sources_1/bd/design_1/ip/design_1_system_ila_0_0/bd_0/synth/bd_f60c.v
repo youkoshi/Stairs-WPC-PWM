@@ -17,27 +17,27 @@ module bd_f60c
     probe5);
   (* X_INTERFACE_INFO = "xilinx.com:signal:clock:1.0 CLK.CLK CLK" *) (* X_INTERFACE_PARAMETER = "XIL_INTERFACENAME CLK.CLK, CLK_DOMAIN design_1_processing_system7_0_0_FCLK_CLK0, FREQ_HZ 200000000, INSERT_VIP 0, PHASE 0.000" *) input clk;
   input [3:0]probe0;
-  input [3:0]probe1;
-  input [10:0]probe2;
+  input [15:0]probe1;
+  input [15:0]probe2;
   input [0:0]probe3;
-  input [10:0]probe4;
-  input [10:0]probe5;
+  input [15:0]probe4;
+  input [15:0]probe5;
 
   wire clk_1;
   wire [3:0]probe0_1;
-  wire [3:0]probe1_1;
-  wire [10:0]probe2_1;
+  wire [15:0]probe1_1;
+  wire [15:0]probe2_1;
   wire [0:0]probe3_1;
-  wire [10:0]probe4_1;
-  wire [10:0]probe5_1;
+  wire [15:0]probe4_1;
+  wire [15:0]probe5_1;
 
   assign clk_1 = clk;
   assign probe0_1 = probe0[3:0];
-  assign probe1_1 = probe1[3:0];
-  assign probe2_1 = probe2[10:0];
+  assign probe1_1 = probe1[15:0];
+  assign probe2_1 = probe2[15:0];
   assign probe3_1 = probe3[0];
-  assign probe4_1 = probe4[10:0];
-  assign probe5_1 = probe5[10:0];
+  assign probe4_1 = probe4[15:0];
+  assign probe5_1 = probe5[15:0];
   bd_f60c_ila_lib_0 ila_lib
        (.clk(clk_1),
         .probe0(probe0_1),

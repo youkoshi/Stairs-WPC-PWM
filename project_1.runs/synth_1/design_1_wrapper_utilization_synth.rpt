@@ -1,7 +1,7 @@
 Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.
 ---------------------------------------------------------------------------------------------------------------------------
 | Tool Version : Vivado v.2018.3 (win64) Build 2405991 Thu Dec  6 23:38:27 MST 2018
-| Date         : Mon Mar  6 16:43:20 2023
+| Date         : Tue Mar  7 10:02:18 2023
 | Host         : BHM running 64-bit major release  (build 9200)
 | Command      : report_utilization -file design_1_wrapper_utilization_synth.rpt -pb design_1_wrapper_utilization_synth.pb
 | Design       : design_1_wrapper
@@ -164,7 +164,7 @@ Table of Contents
 | design_1_key_debounce_0_0       |    1 |
 | design_1_auto_pc_0              |    1 |
 | design_1_PWM_module_0_0         |    1 |
-| design_1_AXI_PWM_0_0            |    1 |
+| design_1_AXI_PWM_0_2            |    1 |
 +---------------------------------+------+
 
 

@@ -52,7 +52,7 @@
 
 (* X_CORE_INFO = "PWM_module,Vivado 2018.3" *)
 (* CHECK_LICENSE_TYPE = "design_1_PWM_module_0_0,PWM_module,{}" *)
-(* CORE_GENERATION_INFO = "design_1_PWM_module_0_0,PWM_module,{x_ipProduct=Vivado 2018.3,x_ipVendor=xilinx.com,x_ipLibrary=module_ref,x_ipName=PWM_module,x_ipVersion=1.0,x_ipCoreRevision=1,x_ipLanguage=VERILOG,x_ipSimLanguage=MIXED,PERIOD_W=11,DELAY_W=4}" *)
+(* CORE_GENERATION_INFO = "design_1_PWM_module_0_0,PWM_module,{x_ipProduct=Vivado 2018.3,x_ipVendor=xilinx.com,x_ipLibrary=module_ref,x_ipName=PWM_module,x_ipVersion=1.0,x_ipCoreRevision=1,x_ipLanguage=VERILOG,x_ipSimLanguage=MIXED,PERIOD_W=16,DELAY_W=16}" *)
 (* IP_DEFINITION_SOURCE = "module_ref" *)
 (* DowngradeIPIdentifiedWarnings = "yes" *)
 module design_1_PWM_module_0_0 (
@@ -67,23 +67,23 @@ module design_1_PWM_module_0_0 (
   PULSE_W_DBG
 );
 
-(* X_INTERFACE_PARAMETER = "XIL_INTERFACENAME sys_clk, ASSOCIATED_RESET sys_rst_n, FREQ_HZ 50000000, PHASE 0.000, CLK_DOMAIN design_1_processing_system7_0_0_FCLK_CLK0, INSERT_VIP 0" *)
+(* X_INTERFACE_PARAMETER = "XIL_INTERFACENAME sys_clk, ASSOCIATED_RESET sys_rst_n, FREQ_HZ 200000000, PHASE 0.000, CLK_DOMAIN design_1_processing_system7_0_0_FCLK_CLK0, INSERT_VIP 0" *)
 (* X_INTERFACE_INFO = "xilinx.com:signal:clock:1.0 sys_clk CLK" *)
 input wire sys_clk;
 (* X_INTERFACE_PARAMETER = "XIL_INTERFACENAME sys_rst_n, POLARITY ACTIVE_LOW, INSERT_VIP 0" *)
 (* X_INTERFACE_INFO = "xilinx.com:signal:reset:1.0 sys_rst_n RST" *)
 input wire sys_rst_n;
-input wire [10 : 0] period;
-input wire [3 : 0] delay;
+input wire [15 : 0] period;
+input wire [15 : 0] delay;
 input wire en_switch;
 output wire en_led;
 output wire [3 : 0] PWM;
-output wire [10 : 0] CNT_DBG;
-output wire [10 : 0] PULSE_W_DBG;
+output wire [15 : 0] CNT_DBG;
+output wire [15 : 0] PULSE_W_DBG;
 
   PWM_module #(
-    .PERIOD_W(11),
-    .DELAY_W(4)
+    .PERIOD_W(16),
+    .DELAY_W(16)
   ) inst (
     .sys_clk(sys_clk),
     .sys_rst_n(sys_rst_n),

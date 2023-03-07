@@ -223,15 +223,15 @@ module design_1_system_ila_0_0 (
   probe5
 );
 
-(* X_INTERFACE_PARAMETER = "XIL_INTERFACENAME CLK.clk, FREQ_HZ 50000000, PHASE 0.000, CLK_DOMAIN design_1_processing_system7_0_0_FCLK_CLK0, INSERT_VIP 0" *)
+(* X_INTERFACE_PARAMETER = "XIL_INTERFACENAME CLK.clk, FREQ_HZ 200000000, PHASE 0.000, CLK_DOMAIN design_1_processing_system7_0_0_FCLK_CLK0, INSERT_VIP 0" *)
 (* X_INTERFACE_INFO = "xilinx.com:signal:clock:1.0 CLK.clk CLK" *)
 input wire clk;
 input wire [3 : 0] probe0;
-input wire [3 : 0] probe1;
-input wire [10 : 0] probe2;
+input wire [15 : 0] probe1;
+input wire [15 : 0] probe2;
 input wire [0 : 0] probe3;
-input wire [10 : 0] probe4;
-input wire [10 : 0] probe5;
+input wire [15 : 0] probe4;
+input wire [15 : 0] probe5;
 
   bd_f60c inst (
     .clk(clk),
